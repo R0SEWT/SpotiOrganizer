@@ -1,0 +1,572 @@
+id,name,artist,genre,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,key,mode
+3D4iziSjHi4jxG8r4pta7z,Santiago De Chile,Los Bunkers,chilean rock,0.558,0.801,-5.796,0.0489,0.000126,4.99e-05,0.176,0.542,120.09,4,2,0
+19CmuECYssqkPWANF4nLWM,Para No Verte Más,La Mosca Tse-Tse,latin alternative,0.658,0.815,-6.834,0.105,0.0168,0.0,0.341,0.837,99.276,4,0,1
+2LsbizbOeNa4x6qsi2jAMb,La flaca,Jarabe De Palo,latin alternative,0.871,0.481,-9.068,0.0383,0.52,5.54e-05,0.0809,0.664,103.063,4,7,1
+6hBfF54vgIAdtb5kbbvt75,Nada Nuevo Bajo El Sol,Los Bunkers,chilean rock,0.483,0.891,-4.813,0.0304,0.0693,0.00122,0.0826,0.82,136.703,4,6,0
+1qgtSWA2GbpAXfyC51M1ph,Por Ti,4x3,latin viral rap,0.761,0.535,-7.665,0.06,0.882,0.0,0.183,0.899,90.965,4,8,1
+5FAS5CyNd5jXR9wRpRtn3L,Inevitablemente,D2o,,0.69,0.449,-9.55,0.186,0.258,0.0,0.0991,0.633,79.198,4,5,0
+3w3y8KPTfNeOKPiqUTakBh,Locked out of Heaven,Bruno Mars,dance pop,0.726,0.698,-4.165,0.0431,0.049,0.0,0.309,0.867,143.994,4,5,1
+49FYlytm3dAAraYgpoJZux,Umbrella,Rihanna,barbadian pop,0.585,0.828,-4.603,0.124,0.00906,0.0,0.0426,0.584,174.034,4,1,1
+0JEoezwc786AUMKs2CBQRI,Carismático,Babasónicos,argentine rock,0.69,0.919,-4.696,0.0353,0.0504,0.0,0.152,0.745,137.018,4,7,1
+7fss5WF5vuXRHvMsYRQXQH,Темная ночь,Mark Bernes,russian folk,0.426,0.257,-15.88,0.044,0.939,2.02e-05,0.109,0.423,112.243,4,7,1
+0ct6r3EGTcMLPtrXHDvVjc,The Nights,Avicii,dance pop,0.527,0.835,-5.298,0.0433,0.0166,0.0,0.249,0.654,125.983,4,6,1
+7ACxUo21jtTHzy7ZEV56vU,Crazy Train,Ozzy Osbourne,album rock,0.454,0.913,-4.008,0.107,0.408,0.000271,0.248,0.521,137.688,4,9,1
+7gKqjNMM4ikt7KFTRsgZgL,El Viejo,La Vela Puerca,latin alternative,0.699,0.744,-3.947,0.0275,0.0696,0.0,0.0751,0.81,114.025,4,1,0
+7vOmSP2647oNUGGEhWd1cr,Montagem Mysterious Game,LXNGVX,gym phonk,0.537,0.64,-10.441,0.104,0.146,0.878,0.157,0.222,130.051,4,1,1
+3QaLlAMZDXa2s8eyVoowjw,"No Tengo Hambre, Tengo Ansiedad",Alan Sutton y las criaturitas de la ansiedad,,0.644,0.727,-5.144,0.121,0.0845,0.0,0.313,0.654,167.922,4,9,0
+18YCZgBpjvd7OiDzlqffj9,Ríe Cuando Puedas,El Chojin,rap conciencia,0.707,0.468,-12.814,0.462,0.792,0.0,0.11,0.74,91.73,4,4,1
+0GDOu0iuMWjSNyq37706Yj,Un problema menos,El Cuarteto De Nos,rock uruguayo,0.734,0.576,-8.296,0.0398,0.021,1.54e-05,0.11,0.908,160.033,4,10,1
+7MiZjKawmXTsTNePyTfPyL,Devil Eyes,Hippie Sabotage,edm,0.391,0.396,-8.621,0.189,0.702,0.405,0.315,0.199,99.112,5,1,0
+08jZu9HOb1jPh4U95n9Iso,Santa Desesperanza,Zumbadores,argentine alternative rock,0.604,0.923,-4.794,0.0345,0.0172,0.0,0.312,0.881,96.006,4,0,1
+2tBOR5GtsrEUzvuvhHaiVU,Nocturno de la Estatua,Otro Tavella & Los embajadores del buen gusto,,0.608,0.549,-7.245,0.0324,0.3,0.0,0.248,0.41,135.978,4,4,0
+0zpKWgFT6SpxQhGIlJRnFy,Animales hambrientos,Desakato,punk urbano,0.519,0.918,-5.539,0.0418,0.0017,7.76e-05,0.164,0.447,96.051,4,8,1
+5d0Keu9WXiN1XZsAG88VcF,Primer movimiento: el sueño,Extremoduro,indie extremena,0.376,0.776,-5.806,0.0441,0.166,0.0295,0.187,0.371,144.148,4,11,0
+5Kw1iXud2UNTfLfpIMDogG,Seguimos vivos,Desakato,punk urbano,0.51,0.912,-3.955,0.0509,4.98e-05,0.00181,0.453,0.429,104.937,4,6,0
+077xWZZIJMDRl1fLZSnwEB,Octubres rotos,Desakato,punk urbano,0.582,0.9,-5.185,0.0373,0.000153,0.000232,0.136,0.271,134.974,4,2,1
+2xizRhme7pYeITbH1NLLGt,"Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",Pyotr Ilyich Tchaikovsky,classical,0.136,0.164,-18.756,0.0364,0.911,0.916,0.109,0.071,58.303,4,4,0
+1aDeaDooAd79p2sdImGG4a,Dulce introducción al caos,Extremoduro,indie extremena,0.332,0.683,-6.493,0.0402,0.0763,0.264,0.164,0.252,139.181,3,7,1
+0WFryfbNKPXVtVQlz5dZ8H,hotline (edit),Billie Eilish,art pop,0.516,0.254,-16.027,0.0589,0.816,0.855,0.189,0.304,56.829,4,9,0
+10rzSpg3kTFSr5e5tFy60A,Pruébame a Ti,Jósean Log,mexican indie,0.696,0.649,-7.284,0.0677,0.0232,0.0,0.187,0.75,136.875,4,0,1
+0obx517J85Rq970CuInlDr,tu refugio,Zenit,rap conciencia,0.74,0.52,-8.122,0.521,0.0477,0.0,0.124,0.678,90.72,4,7,1
+62xokumU0wMqOSsBuefhmB,Te Alejas Más De Mí,Esteman,colombian indie,0.664,0.674,-7.137,0.0315,0.248,0.0,0.159,0.844,179.969,4,8,1
+7dU9Z24yR9AKuS9cAe2Tj7,Subjected to a Beating,Dying Fetus,brutal death metal,0.231,0.983,-5.199,0.0977,0.000254,0.059,0.506,0.336,161.044,4,8,1
+0YUSVg7dncF1TzZ3IFf6Zh,Disfigured,Rag'n'Bone Man,neo soul,0.457,0.474,-5.38,0.0315,0.612,0.0,0.113,0.39,71.987,4,2,0
+1v1oIWf2Xgh54kIWuKsDf6,Runaway,AURORA,art pop,0.422,0.302,-9.214,0.0372,0.629,7.83e-05,0.104,0.123,114.089,4,11,1
+7HgG6kaNPUltGHFP6aIS4L,Tu Vuo Fà L'Americano,Renato Carosone,canzone napoletana,0.623,0.284,-10.81,0.35,0.738,0.0,0.0812,0.905,181.273,4,10,0
+2kLWSmKHhfUBepkIA9oNe5,Abyss - from Kaiju No. 8,YUNGBLUD,british indie rock,0.576,0.808,-4.241,0.0407,0.00615,0.0,0.127,0.172,115.063,4,1,1
+03jdl5GTBhKsgB1Yw8mVPh,In Between,Beartooth,melodic metalcore,0.462,0.972,-2.642,0.138,0.00285,0.0,0.666,0.449,128.092,4,7,0
+7ueP5u2qkdZbIPN2YA6LR0,Sail,AWOLNATION,la indie,0.826,0.436,-9.583,0.0558,0.441,0.615,0.0964,0.272,119.051,4,1,1
+2XXP73OwM2WvZ2vcXAIDz3,El Lado Oscuro del Corazon,Costa,rap underground espanol,0.669,0.749,-4.404,0.307,0.0981,0.0,0.182,0.666,160.066,4,5,0
+1W0OCrMsRP1SLTEdw3JwEz,"Sweet Dreams, TN",The Last Shadow Puppets,baroque pop,0.282,0.566,-6.924,0.0291,0.000878,0.0,0.38,0.477,112.362,3,11,0
+1T0kkgPuLxpEnIXV1NXGFf,Esta To Guapo,Rapsusklei,boom bap espanol,0.874,0.86,-4.407,0.298,0.0843,0.0,0.142,0.879,114.988,4,7,1
+5AIwfXYjGkWCs4KeeTk2Rq,Cantando,Violadores Del Verso,boom bap espanol,0.826,0.765,-6.077,0.435,0.132,0.0,0.0555,0.849,90.628,4,0,1
+4OWa2dOlmtvMDhFrFL0QA1,"La leçon particulière - Bande originale du film ""La leçon particulière""",Francis Lai,classic soundtrack,0.185,0.469,-7.729,0.0314,0.00652,0.909,0.201,0.422,150.319,3,2,0
+1Sz402s2SN6nPicOA8DPah,Saka Saka Saka,MC Mazzie,funk mtg,0.805,0.743,-7.244,0.0735,0.177,0.00155,0.149,0.612,130.143,4,0,1
+7EZvohNWHJ6W3sDOEeBsoU,Tu postura,Once Tiros,argentine rock,0.587,0.883,-5.297,0.0346,0.0511,5.56e-05,0.29,0.857,108.957,4,5,1
+6Wv1yv5O9ZfzCdwEhuk31r,En Compostela,Dakidarria,galician rock,0.55,0.909,-6.429,0.094,0.0047,0.00286,0.565,0.353,175.042,4,10,0
+3MbNnqa8NahIrBdKRW2sX6,Por Amar al Arte,La Regadera,ska espanol,0.459,0.948,-5.9,0.14,0.0424,0.000107,0.0966,0.656,178.05,4,0,1
+6lSypaQOcC6JtzfwpINLGW,El hijo de Hernández,El Cuarteto De Nos,rock uruguayo,0.73,0.866,-2.693,0.0263,0.0151,0.0,0.249,0.824,113.004,4,7,0
+7yCF65vpc7sUwPjftI0iFb,Happy Nation,Ace of Base,eurodance,0.668,0.864,-5.129,0.0367,0.00121,0.0043,0.0785,0.672,96.049,4,1,1
+4BxzNZpcm1j3JczZzGNe2k,Bandoleros,Don Omar,latin hip hop,0.662,0.896,-5.311,0.251,0.318,0.0,0.186,0.79,90.622,4,5,0
+5fdNHVZHbWB1AaXk4RBGVD,Just the Two of Us,"Grover Washington, Jr.",soul jazz,0.743,0.429,-14.576,0.0902,0.447,0.362,0.0455,0.597,95.406,4,10,0
+6FfLg6FFqhCsrFOaHIGkg0,Honeypie,JAWNY,bedroom pop,0.74,0.688,-4.361,0.0916,0.061,0.0,0.138,0.935,115.035,4,5,0
+2flxduIqEbsicdmPyj1WVW,Imagination,Foster The People,indietronica,0.744,0.642,-4.6,0.031,0.115,3.95e-05,0.279,0.63,94.988,4,2,0
+1hiZqVgSKeVPJAjUKgJZMm,Aguanile,Héctor Lavoe,salsa,0.516,0.732,-5.737,0.0478,0.253,4.38e-05,0.241,0.909,127.341,4,0,0
+05ascW5kZSLsGM7sdr9Eot,Lodo,Xoel López,cantautor,0.623,0.537,-9.929,0.0371,0.67,0.323,0.274,0.673,110.982,4,4,1
+0pyT9W877RcYtVdl1ZmlvQ,Valiente,Vetusta Morla,cantautor,0.554,0.9,-3.654,0.0366,0.00382,8.26e-06,0.133,0.569,140.023,4,4,0
+4bZEZhCq2kqUxnMacXVl5x,Copenhague,Vetusta Morla,cantautor,0.559,0.742,-3.945,0.0243,0.411,0.0107,0.133,0.482,92.959,4,9,1
+1ozbWlTQASs311dSO5R6vp,Lucha De Gigantes,Love of Lesbian,cantautor,0.729,0.482,-6.5,0.0301,0.339,4.38e-05,0.159,0.361,108.133,4,4,0
+0kc4G5tEdtmTB0w3gYmb01,Desencuentro (feat. Soko),Residente,venezuelan hip hop,0.379,0.775,-6.297,0.0798,0.0854,0.00446,0.133,0.361,159.83,3,0,1
+569wwTXGm6Ujk1HeJjH6fj,Girasoles,Rozalén,cantautor,0.746,0.732,-5.543,0.182,0.359,2.26e-06,0.0904,0.945,90.03,4,1,1
+0n2lJjskWdFCvLI3ExAGha,Vivir (with Estopa),Rozalén,cantautor,0.715,0.906,-5.478,0.28,0.353,0.0,0.112,0.777,101.088,4,8,1
+6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,Tame Impala,australian psych,0.64,0.74,-4.083,0.0284,0.0115,0.00678,0.167,0.785,116.879,4,4,1
+3TO7bbrUKrOSPGRTB5MeCz,Time,Pink Floyd,album rock,0.359,0.48,-11.79,0.0841,0.521,0.0043,0.178,0.355,120.285,4,9,1
+2U3rA2iYYrTFEeQg4u9S4b,Poema de los Dones,Jorge Luis Borges,,0.683,0.0422,-17.936,0.592,0.443,0.0,0.172,0.287,100.886,4,1,1
+08THvDquCuP6yqDo5g5JLe,Chivo Expiatorio - En Vivo,El Cuarteto De Nos,rock uruguayo,0.498,0.961,-4.332,0.0495,0.0135,0.0,0.969,0.578,146.01,4,5,1
+1vvNmPOiUuyCbgWmtc6yfm,My Way,Calvin Harris,dance pop,0.818,0.913,-3.06,0.0426,0.093,3.69e-05,0.161,0.536,119.986,4,4,0
+6h5PAsRni4IRlxWr6uDPTP,More Than You Know,Axwell /\ Ingrosso,edm,0.646,0.741,-4.973,0.034,0.0275,0.0,0.312,0.571,123.077,4,5,0
+7mitXLIMCflkhZiD34uEQI,Party Rock Anthem,LMFAO,dance pop,0.75,0.736,-4.168,0.155,0.0202,0.0,0.265,0.355,130.011,4,5,0
+5MhsZlmKJG6X5kTHkdwC4B,I'm an Albatraoz,AronChupa,swedish pop,0.883,0.817,-5.414,0.235,0.601,0.00449,0.11,0.595,128.078,4,0,1
+2Foc5Q5nqNiosCNqttzHof,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],Daft Punk,electro,0.794,0.811,-8.966,0.038,0.0426,1.07e-06,0.101,0.862,116.047,4,6,0
+7ydVhVEl4cRGEAhxo7X5Ic,Pana Miguel,Keyan JRN,trap triste,0.491,0.785,-4.569,0.113,0.447,0.0,0.144,0.42,82.476,4,5,1
+1FCsK0oKWCtDOYRPYSrYgO,Idea 22,Gibran Alcocer,ambient lo-fi,0.328,0.0704,-20.147,0.0319,0.986,0.946,0.108,0.15,51.696,4,0,0
+63T7DJ1AFDD6Bn8VzG6JE8,"Paint It, Black",The Rolling Stones,album rock,0.464,0.795,-9.267,0.0926,0.0493,0.00244,0.399,0.612,158.691,4,1,1
+6ftHPJyEHGqMaml3ZEwPm1,Llueve Sobre La Ciudad,Los Bunkers,chilean rock,0.486,0.794,-4.143,0.0336,0.0309,0.0,0.046,0.809,107.848,4,9,0
+6b4ioB9n5Hkeu2GdSOWzJJ,C90 (Remix),John C,trap argentino,0.878,0.762,-5.095,0.0819,0.333,2.31e-06,0.0665,0.617,122.94,4,1,1
+3kNQh1pLaQbZZoh6GDzHGp,Me Tengo Que Ir,Adolescent's Orquesta,salsa,0.463,0.65,-9.002,0.0376,0.386,0.0,0.237,0.912,97.293,4,2,0
+1r2EerxDMVQbXxqsqnjUhy,Que Locura Enamorarme De Ti,Eddie Santiago,salsa,0.757,0.857,-5.035,0.0476,0.743,0.0,0.0674,0.912,94.778,4,1,1
+26ucR33snMkRD6JExhoD6I,Una Aventura,Grupo Niche,salsa,0.699,0.83,-10.935,0.0365,0.275,0.00241,0.121,0.731,92.855,4,0,1
+4ubwzNjqHGaZZ5k06PDx1H,Sin Sentimientos,Grupo Niche,salsa,0.607,0.622,-9.433,0.0354,0.414,0.0,0.176,0.66,82.777,4,2,0
+5XWfwjzFNl2pTB737fx7qr,El Gran Varón,Willie Colón,salsa,0.645,0.665,-5.519,0.0384,0.581,0.0,0.0391,0.369,94.115,4,7,0
+3fRIuTih8bzc0vtY9fHhvF,Talento De Televisión,Willie Colón,salsa,0.779,0.796,-6.675,0.0434,0.701,3.99e-05,0.0636,0.938,104.947,4,2,1
+1nquycJ4zLhrT23rwtH5Wj,Vía Láctea,Zoé,latin alternative,0.534,0.759,-4.781,0.0469,0.0624,0.00484,0.104,0.574,150.976,4,7,1
+100Tm6z29RfHTdUQ6NIs0s,Me Voy,Julieta Venegas,cantautora mexicana,0.575,0.679,-3.845,0.0278,0.0664,0.0,0.0956,0.601,107.878,3,2,1
+75ncCwXqalTnnl6t1ruQRq,Dueles Tan Bien,Bruses,indie triste,0.709,0.366,-8.696,0.0472,0.0256,0.0,0.308,0.407,74.511,4,8,1
+5xxR1xl7tiFlITtxzsuow0,La Rueda,Frankie Ruiz,salsa,0.72,0.814,-8.057,0.0384,0.495,1.55e-05,0.0731,0.962,102.894,4,5,1
+3Pme6ghMt2iCDy4V2SqWPx,Cariño Malo,Los Kipus,classic peruvian pop,0.676,0.387,-5.971,0.0769,0.699,5.66e-05,0.104,0.626,137.501,3,3,0
+2Ovxs4W5CIMcOIPLJq89ge,Déjalos,Los Embajadores Criollos,classic peruvian pop,0.806,0.431,-13.511,0.0629,0.775,1.04e-06,0.0747,0.932,144.699,3,9,0
+6I9VzXrHxO9rA9A5euc8Ak,Toxic,Britney Spears,dance pop,0.774,0.838,-3.914,0.114,0.0249,0.025,0.242,0.924,143.04,4,5,0
+6naxalmIoLFWR0siv8dnQQ,Oops!...I Did It Again,Britney Spears,dance pop,0.751,0.834,-5.444,0.0437,0.3,1.77e-05,0.355,0.894,95.053,4,1,0
+6ic8OlLUNEATToEFU3xmaH,Gimme More,Britney Spears,dance pop,0.788,0.844,-3.131,0.0334,0.25,0.000678,0.0723,0.382,113.324,4,2,1
+7AqteBGkJ5edFjEfYf8mXf,Liki Bessmertnykh Bogov,Arkona,folk metal,0.311,0.939,-4.24,0.061,0.0211,0.0175,0.102,0.393,159.147,3,0,1
+68WeKkXsg8jUZ57t3bz6qe,Yo Me Voy Pa' la Cumbia,Sergent Garcia,latin alternative,0.826,0.757,-4.682,0.15,0.0081,0.000357,0.312,0.728,95.986,4,0,1
+04aAxqtGp5pv12UXAg4pkq,Centuries,Fall Out Boy,emo,0.393,0.858,-2.868,0.0729,0.00359,0.0,0.102,0.56,176.042,4,4,0
+0M955bMOoilikPXwKLYpoi,I Hate Everything About You,Three Days Grace,alternative metal,0.498,0.83,-5.157,0.0421,0.00461,0.0,0.139,0.453,89.342,4,6,0
+6Nm8h73ycDG2saCnZV8poF,Dragula,Rob Zombie,alternative metal,0.59,0.963,-6.489,0.0676,8.75e-05,0.000105,0.0781,0.586,125.033,4,0,0
+3Tg8JctqoeIwZ3Rue8BjaI,Ratamahatta,Sepultura,alternative metal,0.53,0.95,-5.402,0.0959,0.00801,0.205,0.33,0.411,112.627,4,10,0
+3Te8uLyit6X3ncNW8Fp3K2,Immortals,Fall Out Boy,emo,0.616,0.868,-3.606,0.0699,0.00131,1.54e-06,0.671,0.475,108.016,4,2,1
+47atuTch0AN7NvP9vp42a5,Ramble Tamble,Creedence Clearwater Revival,album rock,0.347,0.8,-6.651,0.0294,0.00147,0.769,0.0975,0.66,103.725,4,7,1
+69Yia3qCLw6N9U80WhLwLn,Voice of the Soul,Death,death metal,0.158,0.572,-6.293,0.0346,0.000926,0.893,0.144,0.347,79.176,3,7,0
+3q9G9SvgdfE1fxlvoDIb20,Paranoid,Black Sabbath,album rock,0.423,0.685,-9.651,0.078,6.28e-05,0.00642,0.133,0.328,162.78,4,4,0
+4dUES55SAFKZp4ekMlLHWZ,NO SON KLLE,Santa Fe Klan,mexican hip hop,0.456,0.845,-4.283,0.274,0.424,2.78e-06,0.107,0.55,173.922,3,11,1
+1Hs1uUl8o2VtDp1DABFq0O,Los del Espacio,LIT killah,argentine hip hop,0.813,0.682,-3.598,0.0402,0.107,0.0,0.108,0.634,120.011,4,0,1
+48vnZJGacXc78tqN9gcNPZ,Todo Lo Que Importa,SFDK,rap politico,0.703,0.802,-7.319,0.241,0.0603,0.0,0.0716,0.727,88.672,4,6,0
+41wVwJUWk1urN57CfAajMJ,Cleopatra,Rapsusklei,boom bap espanol,0.69,0.703,-6.911,0.109,0.0204,1.64e-06,0.0889,0.287,80.067,4,1,1
+3OC3AO2zGgcyM7pAFO47YZ,Yemen,Kase.O,rap politico,0.714,0.544,-7.047,0.418,0.257,0.0,0.197,0.92,82.841,4,11,0
+14Qcrx6Dfjvcj0H8oV8oUW,"""In The Hall Of The Mountain King"" from Peer Gynt Suite N°1, Op. 46",London Symphony Orchestra,british orchestra,0.475,0.13,-17.719,0.051,0.916,0.956,0.101,0.122,112.241,4,7,1
+2O1EHaqGqQjAqshMGOBfyB,Amor De Etiqueta,La Caro Band,pop peruano,0.568,0.922,-3.56,0.0827,0.826,1.21e-05,0.183,0.844,98.402,4,5,1
+6IbnUaczZBT34DhaD6S18F,Bubblegum Bitch,MARINA,metropopolis,0.495,0.856,-5.123,0.0311,0.000219,0.0,0.103,0.609,158.024,4,0,0
+1lb3H41lbvAN28N7yqRNL9,Idea 10,Gibran Alcocer,ambient lo-fi,0.339,0.242,-20.446,0.0383,0.978,0.871,0.104,0.711,87.053,3,7,0
+1Kb2DqjHRvOcT5xeWtz3t5,Ferme Les Yeux,Sylvain Chauveau,ambient,0.0,0.0323,-23.636,0.0,0.994,0.973,0.0922,0.0,0.0,0,2,0
+1yqM5O07lL7R6UAdK5jvrR,Oceans Apart,Ben Crosland,background piano,0.396,0.0559,-20.707,0.0599,0.987,0.935,0.11,0.278,95.217,1,9,0
+5eujblqQ4RS7WDwyqZuMrf,Martes Otra Vez (feat. Roberto Musso),Meteoros,pop argentino,0.692,0.517,-14.585,0.0338,0.00893,0.000122,0.062,0.969,122.796,4,9,0
+6HkGQ1F0ZtPHbnp1GCdLZK,Opheliac,Emilie Autumn,cello,0.478,0.733,-9.302,0.312,0.0221,0.0,0.0669,0.274,160.049,4,7,0
+46RHz0aqfrwRmGMdEgenL4,Tantas Veces Dijeron,Rapsusklei,boom bap espanol,0.729,0.87,-4.426,0.201,0.0707,0.0,0.475,0.742,95.019,4,1,1
+4h9wh7iOZ0GGn8QVp4RAOB,I Ain't Worried,OneRepublic,piano rock,0.704,0.797,-5.927,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,0,1
+5YqEzk3C5c3UZ1D5fJUlXA,Sunroof,Nicky Youre,singer-songwriter pop,0.768,0.714,-5.11,0.0401,0.352,0.0,0.15,0.842,131.443,4,10,1
+52Zr0sinhWTCRrQhRRY4EP,Dragostea din tei,O-Zone,eurodance,0.802,0.966,-3.933,0.0424,0.18,0.0,0.0611,0.684,130.099,4,0,1
+7LrvlNIlAjAHVam2XbfN0N,La Rumba del Tartamudo,TéCanela,flamenco fusion,0.776,0.829,-5.09,0.137,0.27,1.51e-05,0.0457,0.838,105.832,4,4,1
+7zrmKJCfEHluOWJy8LFnTs,Ringui Dingui - con SFDK,Kase.O,rap politico,0.873,0.793,-5.866,0.0883,0.287,0.0,0.081,0.9,119.988,4,7,1
+3qwcu0SWVoSLHvlhV41uia,Tu Viento - Versión Deluxe,SFDK,rap politico,0.824,0.444,-11.235,0.364,0.763,5.88e-05,0.109,0.511,94.048,4,6,0
+2w9wysl19C7xQxQYN0S2p1,Todo Lo Que Importa,SFDK,rap politico,0.703,0.802,-7.319,0.241,0.0603,0.0,0.0716,0.727,88.672,4,6,0
+4Vr8wfwNnm1HI4pfuANcd4,Orgullo Banderillero,SFDK,rap politico,0.774,0.54,-6.58,0.404,0.099,0.0,0.14,0.618,83.954,4,6,0
+749H5Zv3UejDRqMtE1UEAp,Sereno,ZOO,mestissatge,0.441,0.557,-7.597,0.152,0.802,0.0,0.172,0.691,82.524,4,11,0
+289zheQgtKtJ3qhK5YlDTU,Ser Feliz y No Llorar en el Intento,SFDK,rap politico,0.848,0.537,-8.151,0.129,0.731,0.0,0.119,0.518,110.044,4,0,1
+7Gjlbz4TEoeBGH43eEd3hs,Como Alí,Los Piojos,argentine rock,0.631,0.949,-2.718,0.0348,0.00228,0.0,0.118,0.922,151.788,4,5,1
+5N9eyuZBayG61LAuriCFAr,Vamo a Bailar a Tribunales,Alan Sutton y las criaturitas de la ansiedad,,0.75,0.572,-10.261,0.0792,0.107,0.0,0.0953,0.739,92.044,4,1,1
+70tMZ6zOtPq18HMVPUgTyo,Solo una Vez,La Caro Band,pop peruano,0.568,0.922,-3.535,0.0762,0.841,1.78e-05,0.249,0.814,98.681,4,5,1
+75cH5pVAqBto7c2yyCy4It,Creencias Personales,SFDK,rap politico,0.574,0.901,-1.743,0.137,0.0399,0.0,0.208,0.583,100.089,4,1,1
+3MFXvcV1mR0ZS1h7aWx4kv,Jawelin,SFDK,rap politico,0.773,0.711,-7.262,0.206,0.181,0.0,0.385,0.595,124.104,4,0,1
+4VikOud5ZmdmHH6h7uQeDB,Nos Siguen Pegando Abajo,Charly García,argentine rock,0.655,0.894,-7.696,0.0994,0.0271,0.0684,0.0414,0.785,152.354,4,2,1
+7qsVi4WfUTu87SoDMDi6wX,Escorpiones de Tequila,BAMBIKINA,indie extremena,0.765,0.66,-7.085,0.0333,0.622,0.000127,0.144,0.479,120.07,4,0,0
+6ytwjgwBRxYTUxYJbbkCtf,You're so Cold,Two Feet,indie poptimism,0.894,0.334,-7.852,0.0838,0.156,0.782,0.105,0.346,93.025,4,4,0
+0USZx50eApN045zIIyjePN,All The Time,Jeremih,chicago rap,0.675,0.44,-9.298,0.349,0.545,6.24e-06,0.197,0.0338,109.823,4,9,0
+7tySfDFfBiCjraLdoy6In5,Put It on Me,Matt Maeson,pov: indie,0.629,0.414,-5.782,0.0323,0.0068,7.78e-05,0.0807,0.417,81.941,3,1,1
+6MiVIH3fQlmz44jGx2DXn4,Love Is a Bitch,Two Feet,indie poptimism,0.532,0.178,-9.754,0.0541,0.614,0.14,0.0985,0.103,149.879,3,9,0
+5T3CKcSWLdue0NWwvF93fI,It's Raining Men,The Living Tombstone,otacore,0.557,0.865,-3.91,0.0477,7.46e-05,5.55e-05,0.381,0.406,135.939,4,5,0
+2IvetNzSZMH5gwjInoyr18,It's Raining Men,The Weather Girls,disco,0.69,0.744,-12.721,0.0613,0.034,0.598,0.453,0.56,136.918,4,1,1
+2M9ro2krNb7nr7HSprkEgo,Fast Car,Tracy Chapman,folk,0.711,0.292,-15.523,0.037,0.313,0.0,0.131,0.194,103.951,4,4,0
+6pWeJvzpQR1ihiUSJklOzD,Paseo,Estopa,pop flamenco,0.726,0.55,-9.676,0.0445,0.432,0.0,0.155,0.84,102.021,4,0,1
+447r2keRxpkINmWYp83MlH,Maquiavélico,Canserbero,boom bap espanol,0.554,0.868,-5.386,0.116,0.544,0.0,0.142,0.402,92.907,4,11,1
+7MVIfkyzuUmQ716j8U7yGR,Rara Vez,Taiu,trap argentino,0.838,0.708,-4.668,0.166,0.176,0.0,0.343,0.96,119.984,4,5,0
+02Wse1w8jxhXo5T7kRXgIe,"Leck mich im Arsch, K.231",Wolfgang Amadeus Mozart,classical,0.402,0.136,-22.743,0.0434,0.98,1.35e-06,0.156,0.216,85.246,4,9,1
+20n9GjrKJBmN7nMEb21cxc,Que Empiece el Juego,El Cuarteto De Nos,rock uruguayo,0.735,0.723,-6.032,0.0725,0.0128,0.0,0.0539,0.533,119.938,4,9,0
+1VNWaY3uNfoeWqb5U8x2QX,Lonely Day,System Of A Down,alternative metal,0.47,0.796,-3.277,0.0336,0.362,1.1e-06,0.133,0.215,113.108,3,8,0
+3M214U0mwSm041GsQR3nrO,Toxic,BoyWithUke,sad rap,0.609,0.619,-5.677,0.311,0.749,0.0,0.264,0.689,179.71,4,11,1
+6dGqGkYDoRrKh5UiIcTT22,Understand,BoyWithUke,sad rap,0.828,0.658,-6.19,0.14,0.81,1.06e-06,0.277,0.917,103.051,4,6,0
+4YLKHaxYieIw6iMVfIvKm7,Migraine,BoyWithUke,sad rap,0.791,0.639,-4.962,0.104,0.358,0.0,0.0833,0.473,97.01,4,8,0
+4ZUpTMKPYFTfJqamWFU9Zv,IDGAF (with blackbear),BoyWithUke,sad rap,0.782,0.728,-5.93,0.0768,0.427,0.0,0.25,0.876,97.975,4,5,1
+5IXdkgrT4lb9sKIb8tbOQ3,Sick of U (with Oliver Tree),BoyWithUke,sad rap,0.62,0.814,-3.192,0.0911,0.306,0.0,0.0977,0.654,92.714,4,0,1
+1ypwNj8eK2qAMDEs4EiIIX,Miss You - Bonus Track,Oliver Tree,alternative hip hop,0.587,0.742,-6.64,0.0529,0.0128,0.00107,0.146,0.199,145.007,4,6,0
+3gr1pMLpDJGqErHhhl7dEO,thought it was,iann dior,melodic rap,0.695,0.504,-6.09,0.0304,0.147,0.0,0.111,0.197,90.018,4,4,0
+4BY4V1T0RJK1HmD2Q0ClyK,Oblivion,Grimes,art pop,0.697,0.529,-8.838,0.0338,0.115,0.896,0.0895,0.486,155.974,4,2,1
+5DMrREzztuMUkLMDjMpJNY,Trampoline - Jauz Remix,SHAED,electropop,0.49,0.606,-6.604,0.0424,0.169,0.00106,0.0704,0.119,126.553,4,7,0
+1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons,modern rock,0.728,0.783,-4.424,0.266,0.237,0.0,0.434,0.555,77.011,4,11,0
+0tr3v4Xa72pzKRlqb7v4Lu,Trasegando,Marea,punk urbano,0.479,0.976,-4.397,0.085,8.63e-05,0.00946,0.179,0.626,89.89,4,11,1
+7svugfnT2bGt8zZTfVIclr,Lobos,Kamikazes,spanish punk,0.226,0.991,-2.602,0.0862,0.000328,0.0665,0.382,0.33,102.251,4,4,0
+7fBJbfwWRSCje16iboEAF7,Venimos del Desierto,Nunca Jamas,sonora indie,0.627,0.803,-1.581,0.0357,0.0207,0.0,0.109,0.531,87.525,4,2,1
+5Srks36XWpQoF47EYF7ExI,Rojitas,Extrechinato y Tu,indie extremena,0.599,0.497,-11.172,0.0399,0.105,0.00257,0.111,0.618,157.989,4,4,0
+0y1QJc3SJVPKJ1OvFmFqe6,Way down We Go,KALEO,icelandic indie,0.489,0.505,-8.022,0.117,0.579,0.000333,0.104,0.337,163.255,4,10,0
+2C6fzRAlaWOhKCOsn5a0Nk,Lo Que Me Mata,La Franela,argentine rock,0.664,0.811,-4.925,0.0287,0.0617,0.0,0.117,0.722,138.992,4,9,0
+41rML4de6ySFAEgusyvq3R,Юность,почтисчастье,russian synthpop,0.581,0.862,-4.158,0.116,5.48e-05,0.249,0.0494,0.715,144.919,4,0,1
+0cc3HERtXGbBijz4EGqIWW,Asado de fa,Sara Hebe,argentine indie,0.733,0.647,-4.654,0.269,0.442,0.0,0.117,0.834,85.085,4,0,1
+4LAL36nGagL2EYjnXEz3vV,Insaciable,El Cuarteto De Nos,rock uruguayo,0.43,0.93,-3.75,0.0674,0.00392,0.0,0.274,0.5,186.122,4,2,0
+3SqdNG4NyJwUNguqrmGtZ1,Incontinencia Verbal,Las Pastillas del Abuelo,argentine rock,0.452,0.746,-4.503,0.0332,0.0628,1.32e-05,0.585,0.603,164.63,4,7,0
+3SzuLiXQ0rsRRnt8mMXrNo,Price for freedom,La Franela,argentine rock,0.549,0.954,-4.943,0.0489,0.000131,0.00217,0.0942,0.86,160.052,4,4,1
+3iOFY423D3690MfhE74F8A,21 de septiembre,El Cuarteto De Nos,rock uruguayo,0.528,0.308,-9.769,0.0341,0.816,0.0,0.0934,0.256,80.017,4,9,1
+5px66MtTBtuiCuX4yhqNdr,Por Colectora,Las Pastillas del Abuelo,argentine rock,0.68,0.865,-6.504,0.0475,0.00253,0.00394,0.08,0.947,159.941,4,9,0
+6tsl5di0G2WX2vkmCiESeH,Enano,Las Pastillas del Abuelo,argentine rock,0.592,0.843,-5.951,0.0324,0.00512,0.000705,0.0942,0.584,140.094,4,2,1
+3Azo521e0Tacq8znJWaDQO,Otra Vuelta de Tuerca,Las Pastillas del Abuelo,argentine rock,0.69,0.86,-4.324,0.0421,0.143,0.0,0.0963,0.951,144.968,4,2,1
+1XVunUrydy4GwHcz9LheFE,Haggstrom,Curly,lo-fi vgm,0.732,0.514,-8.584,0.0397,0.307,0.00397,0.108,0.245,133.035,4,7,1
+1wLYrmTo3HtsoTzfQnRZUY,Ojos de Dragón!,Las Pastillas del Abuelo,argentine rock,0.689,0.586,-6.302,0.0565,0.115,0.0,0.105,0.515,141.952,4,2,0
+7AVpYzzLEQeMoeSq190Ncy,Fiesta en lo del Dr. Hermes,El Cuarteto De Nos,rock uruguayo,0.523,0.754,-5.922,0.0442,0.11,0.0,0.094,0.509,80.84,4,2,0
+4MPwBYidOWnwpKlqQYJEzX,Va A Escampar,La Vela Puerca,latin alternative,0.616,0.737,-5.103,0.029,0.0135,4.25e-05,0.154,0.339,124.0,4,9,0
+2wVk026aPEMxofNQvBIr8n,Me Gustas Tanto (feat. Sidonie),Miranda!,electronica argentina,0.748,0.885,-6.378,0.0349,0.000857,0.139,0.0745,0.961,127.011,4,0,1
+0QUWDjKdItXClpaDbeaTAf,Quien Manda,Mala Rodríguez,latin hip hop,0.685,0.633,-3.921,0.211,0.0675,3.05e-06,0.0656,0.518,174.151,4,6,1
+5lsQpCUKFaqaBGUAl9rZPR,Cum Laude,El Niño de la Hipoteca,cantautor,0.666,0.829,-5.463,0.0587,0.206,0.0,0.193,0.575,147.979,4,2,1
+2a7UjwEFKZcmwxglvwpBb3,Invierno del 92,El Cuarteto De Nos,rock uruguayo,0.601,0.882,-5.191,0.0262,0.011,0.0,0.0963,0.696,105.022,4,7,1
+1ozuMsJLTvFIMvlW7AWq95,Ya No Sé Que Hacer Conmigo,El Cuarteto De Nos,rock uruguayo,0.676,0.785,-5.39,0.0293,0.119,0.0,0.134,0.502,102.046,4,11,0
+3tUk2PzTp8KCIU4cxstJq1,Yendo a la Casa de Damián,El Cuarteto De Nos,rock uruguayo,0.661,0.75,-5.816,0.0402,0.0614,0.0,0.267,0.524,105.984,4,9,0
+5U4l5prXjPGv5fnP8nZ3kK,Hoy Estoy Raro,El Cuarteto De Nos,rock uruguayo,0.691,0.81,-6.373,0.0284,0.0324,0.0,0.148,0.455,102.038,4,11,0
+0ePp0z6IzzKip3DQVw2S5Z,Todos pasan por mi rancho,El Cuarteto De Nos,rock uruguayo,0.513,0.786,-5.995,0.033,0.262,0.0,0.0923,0.29,84.908,4,4,0
+0m29Kyrm8caxQ22r1rZ4wn,El balcón de Paul,El Cuarteto De Nos,rock uruguayo,0.695,0.933,-3.244,0.0306,0.0319,0.0,0.369,0.854,134.024,4,10,1
+35LdDKNMwvKftENaj1WIwF,Enamorado tuyo,El Cuarteto De Nos,rock uruguayo,0.611,0.826,-3.906,0.0234,0.00239,0.000224,0.182,0.666,95.995,4,1,0
+4LFrQltHBSWQ187o7oWJcS,Sólo estoy sobreviviendo,El Cuarteto De Nos,rock uruguayo,0.63,0.872,-3.254,0.0296,0.117,0.0,0.366,0.55,96.035,4,2,1
+7pJzbW7hZ1yOLUBqRq5ZBt,Hola Karma,El Cuarteto De Nos,rock uruguayo,0.562,0.748,-6.861,0.0318,0.0111,0.000692,0.233,0.582,96.954,4,7,1
+0YOwYApHSciCRtZmKTEgEa,Mirada de Nylon,El Cuarteto De Nos,rock uruguayo,0.623,0.804,-5.75,0.031,0.0144,0.0,0.0964,0.608,124.041,4,9,0
+2TEnceAmZQR6bLLo5Fx7q9,Calma Vladimir,El Cuarteto De Nos,rock uruguayo,0.355,0.753,-5.851,0.245,0.0235,0.0,0.104,0.386,198.237,3,4,0
+5H8M2ffRKcdqJTc6YTt4c2,El Innombrable,El Cuarteto De Nos,rock uruguayo,0.575,0.888,-4.184,0.0907,0.304,3.21e-06,0.151,0.613,89.999,4,9,0
+1Bo2c0WwPmzognDcmLFNMe,Invisible,El Cuarteto De Nos,rock uruguayo,0.366,0.816,-5.521,0.0498,0.00807,0.0,0.0555,0.708,203.938,4,9,0
+6H4x2MIySKNhrXdLkLJvcy,Fallaste Nostradamus,El Cuarteto De Nos,rock uruguayo,0.694,0.651,-6.961,0.0407,0.0203,4.06e-05,0.0914,0.599,110.065,4,2,1
+5wjFUjiT4gKddiTX9urqN2,Contrapunto para Humano y Computadora,El Cuarteto De Nos,rock uruguayo,0.609,0.867,-7.031,0.25,0.0186,1.56e-06,0.344,0.35,114.364,4,2,1
+43HJPKlwZ5jRrMnMfLcQ2T,El Perro Freddy,El Niño de la Hipoteca,cantautor,0.741,0.902,-4.402,0.0488,0.469,0.0,0.0686,0.934,131.061,4,2,0
+0VQW5MJ1BP3FntQ9IzFBNM,Actitud,Gritando en Silencio,punk urbano,0.348,0.902,-5.887,0.0933,0.126,0.0,0.424,0.662,95.945,4,11,1
+1FKKvyrgMdJFwf0NdM7P5Q,Cerca del suelo,Extremoduro,indie extremena,0.553,0.691,-5.546,0.044,0.297,0.0106,0.149,0.744,152.305,4,0,1
+2v7exGU90YFXvlxUJ9dFvQ,Cristales Rotos,Sons of Aguirre,rap metal espanol,0.531,0.687,-7.4,0.0462,0.407,0.0,0.0875,0.943,82.562,3,0,1
+7CXXzq7SIdH3I4L8m5P5h2,Solo Quiero de Ti,La Raíz,ska espanol,0.512,0.69,-6.401,0.0464,0.00831,0.0,0.251,0.731,166.026,4,4,0
+5hXCTV8OCsNak8OVry7yzM,Bugambilia,Nasa Histoires,,0.589,0.783,-6.936,0.0564,0.416,1.95e-06,0.0955,0.576,90.042,4,7,0
+5WWxj79hWjVq0wIBDCIw7T,Primer movimiento: Después de la catarsis,Robe,indie extremena,0.373,0.486,-14.838,0.0731,0.0806,0.00124,0.16,0.236,116.792,4,11,0
+5wNZtFOmq64IAq7tKkIv8d,Gaucho Power,El Cuarteto De Nos,rock uruguayo,0.622,0.831,-5.753,0.0676,0.0262,0.0,0.127,0.704,109.976,4,11,0
+0IfDzKy3k1t6OlfR1Zbo1B,"Ven, Pasa",ZPU,rap conciencia,0.447,0.68,-7.541,0.304,0.628,0.0,0.234,0.376,85.011,4,7,1
+689o09PSSPw3BxnZHk2hNC,Quien Manda,Mala Rodríguez,latin hip hop,0.684,0.633,-3.921,0.211,0.0675,3.23e-06,0.0657,0.518,174.153,4,6,1
+0j5u5RCr7LV4weyJdxkgR6,Nombres,El Cuarteto De Nos,rock uruguayo,0.593,0.725,-7.066,0.0255,0.0378,2.41e-05,0.0946,0.56,135.065,4,9,1
+3NHSz1GyC5IeK1soZSjIIX,ИСКАЛА,Zemfira,classic russian rock,0.659,0.615,-7.633,0.0254,0.0218,0.0,0.162,0.568,95.032,4,9,0
+6NFVDhRQpIueOxYuw5vQlz,Burning Down the House,Talking Heads,alternative rock,0.776,0.871,-11.108,0.0519,0.00294,0.0129,0.0598,0.57,103.249,4,5,0
+6E0QvksY8P840Sg2kzPUoy,Scatman & Hatman,Scatman John,eurodance,0.805,0.832,-4.665,0.0555,0.219,0.00144,0.226,0.821,119.905,4,5,0
+6dugx9WBSS8TDxbKqp9zmj,Scatman's World,Scatman John,eurodance,0.704,0.874,-10.801,0.0568,0.0706,4.84e-06,0.0947,0.939,146.989,4,11,0
+0jqK7sGTLsHPkQrrcrGuKD,Still Waiting,Sum 41,alternative metal,0.431,0.95,-4.918,0.26,0.00105,3.63e-05,0.272,0.562,191.941,4,7,1
+5s8onl5Lw5q1AijP5BUm7G,La mano de Dios (Homenaje a Diego Maradona),Rodrigo,argentine rock,0.395,0.855,-5.72,0.0618,0.784,1.11e-06,0.943,0.504,157.331,4,5,0
+3hdQekpCI2L2j15XwIG2Bd,Kass' Theme,Mikel,lo-fi vgm,0.753,0.421,-10.36,0.0485,0.596,0.84,0.115,0.232,84.019,4,9,0
+2UpDlIw9aI9gK0GphKQjZ8,SAD! ~ lofi,Closed on Sunday,anime lo-fi,0.51,0.242,-15.763,0.181,0.901,0.942,0.175,0.412,74.999,4,8,0
+6byvMlUkFmNZIl8aprXRhL,Cuarto movimiento: Yo no soy el dueño de mis emociones,Robe,indie extremena,0.535,0.704,-13.44,0.0465,0.00906,0.00195,0.112,0.554,97.017,4,2,1
+63Zg2q0NxOIoVu7olYHl9t,Segundo movimiento: Mierda de filosofía,Robe,indie extremena,0.489,0.708,-12.788,0.107,0.0128,2.84e-05,0.469,0.31,122.016,4,11,0
+7DVhr2t5x2GLwhU3yFS3p1,Rapp Snitch Knishes (Live Instrumental) - Cover,OMA,,0.567,0.555,-10.544,0.0838,6.86e-05,0.904,0.336,0.803,95.023,4,10,0
+6q6YaZyb5MDaPofi60yeew,Furret Walk 8-Bit (Accumula Town),Henriko 8-Bit,,0.732,0.379,-10.253,0.062,0.812,0.938,0.104,0.921,112.062,4,4,1
+7f1MocyOZrNKWgHKfyRHbo,Bailar morghulis,Día Sexto,rap galego,0.71,0.923,-7.893,0.104,0.441,0.0,0.332,0.747,100.003,4,9,0
+4zF2MQued46ZoyOm8YQpyw,Más,Día Sexto,rap galego,0.683,0.741,-6.466,0.284,0.555,0.0,0.0526,0.932,89.632,4,2,1
+2NK6Gq7j1plxRtAyYKdoKp,Rua Na Selva,Nativa,reggae catala,0.885,0.82,-6.123,0.0514,0.351,6.75e-05,0.0706,0.767,114.961,4,9,0
+0HDh5QaLfCwi2xyvkei917,Sis puella magica!,梶浦 由記,anime score,0.437,0.405,-12.424,0.0332,0.617,4.36e-06,0.0836,0.404,148.119,3,7,0
+29iIRrSuANyjnwag69PHOJ,Demoliendo Hoteles,Charly García,argentine rock,0.616,0.701,-8.467,0.0629,0.00321,0.0,0.39,0.411,78.983,4,1,1
+34BMzIFvpIgacpqUvuNpOT,Maldición,Once Tiros,argentine rock,0.505,0.532,-6.001,0.0351,0.0713,0.0,0.0781,0.618,103.428,4,11,0
+6zI4eWfBKdujnnLmXTIHqJ,Моя любимая,The Red Army Choir,musique militaire,0.245,0.203,-18.921,0.0476,0.929,0.0052,0.157,0.543,186.849,3,5,0
+31wVu1EYhWOFCECXTqLWQ4,Moskau,Dschinghis Khan,classic schlager,0.752,0.84,-7.577,0.0359,0.103,8.15e-05,0.193,0.888,131.764,4,5,0
+2ltWiec0N2xBIu5Hvi5uM4,The Less I Know the Sexy Back,Gold Slides,,0.716,0.368,-15.437,0.0332,0.147,0.28,0.457,0.774,117.004,4,9,1
+1DxEbt6OSbrkRthk6pjZue,MERCHO,LiL CaKe,trap argentino,0.838,0.79,-1.602,0.108,0.431,3.33e-06,0.184,0.962,92.927,4,6,0
+3RRb7m7zpenaWk4wyqcnm3,"Yes, the Music Is a Feeling",your best friend jippy,,0.703,0.781,-11.084,0.137,0.699,0.449,0.126,0.742,89.697,4,1,1
+1kAg9rfHsyoYLEi7GxA4nM,Tal Tal Heights,Mikel,lo-fi vgm,0.796,0.294,-14.029,0.115,0.783,0.94,0.132,0.855,141.996,4,8,0
+4imCqtH8ZVmovPcozJKIom,Mamá No Me Quiero Casar,XDinero,indie arequipeno,0.403,0.883,-5.98,0.296,0.00273,0.0,0.132,0.511,183.111,4,11,0
+78CVgSm8s9pfpwCqvqzEYB,PRMVR,La Maravillosa Orquesta del Alcohol,spanish indie pop,0.585,0.608,-5.511,0.0263,0.0249,2.88e-06,0.337,0.562,95.805,4,10,1
+1DtrlY4mOFrtuqgMYjXVJL,Rituales de Santería,ZOO,mestissatge,0.724,0.792,-5.398,0.0494,0.166,0.0,0.138,0.435,108.099,4,9,0
+0fZgVsd0Bk64cAUOcUnQ0X,Vasos Vacíos,La Maravillosa Orquesta del Alcohol,spanish indie pop,0.516,0.537,-12.513,0.0411,0.0512,0.0,0.0787,0.367,144.887,4,9,0
+0c4KyvtJPmHd5mnXYE5QnZ,Song of Storms,Mikel,lo-fi vgm,0.676,0.462,-8.458,0.0308,0.0195,0.885,0.117,0.474,85.015,4,2,0
+2kRGvesjW6DsXPfSrhjYVp,Mateo,Tronic,chilean rock,0.539,0.936,-2.831,0.0953,0.0632,0.0,0.373,0.962,160.019,4,0,0
+4JkQU5XnvMu7WroV5QEZa6,Bipolar,El Cuarteto De Nos,rock uruguayo,0.61,0.937,-3.641,0.0305,0.00556,0.0,0.0735,0.361,92.015,4,10,1
+270ieNCOt945nOdUQubFI5,Para No Verme Más,La Vela Puerca,latin alternative,0.538,0.709,-5.781,0.0266,0.04,3.66e-05,0.108,0.453,131.039,4,11,1
+5i9BN55sSR94Lfdes8seDp,Nos dijimos todo,Once Tiros,argentine rock,0.435,0.854,-5.461,0.0399,0.00902,0.000187,0.802,0.71,162.963,4,6,0
+34CKJs7AevJpbrE53OFJwO,Lacanao,Once Tiros,argentine rock,0.68,0.717,-6.252,0.0318,0.00944,0.0,0.273,0.911,132.445,4,7,0
+2Lo6jY6P6iiGMOfkx5N5Kt,Un Nuevo Yo Despierta,El Chojin,rap conciencia,0.627,0.72,-8.719,0.406,0.0463,0.0,0.0844,0.527,90.529,4,1,0
+008BXU3kzngyZKVSjCyxpE,Un Pobre Con Dinero,SFDK,rap politico,0.792,0.764,-7.19,0.254,0.104,0.0,0.0956,0.531,134.996,4,5,1
+0Ao7UyZ0IcKH9WQitKd0EL,Mañana Será Otro Día,Canserbero,boom bap espanol,0.651,0.689,-7.302,0.304,0.656,0.0,0.335,0.448,90.259,4,2,1
+1jCBQphSQvBNDsCKYAxtP5,Con la Música a Otra Parte,Sharif,spanish hip hop,0.611,0.908,-2.928,0.323,0.222,0.0,0.296,0.889,87.904,4,8,0
+0PHtFrmcK2kcUVkjb4auvj,Lucifer,SFDK,rap politico,0.623,0.835,-5.736,0.271,0.218,0.0,0.344,0.849,90.35,4,5,0
+1B0BQaSRHxhI0AUlItY3LK,MALAMENTE - Cap.1: Augurio,ROSALÍA,latin viral pop,0.893,0.482,-4.779,0.0873,0.549,0.0164,0.0752,0.53,97.975,4,0,0
+0YFoSD5VhoVrRbrnFERpVM,Yo te propongo,Rombai,cumbia pop,0.851,0.867,-5.062,0.0589,0.0514,2.33e-05,0.0361,0.77,112.178,4,0,1
+1MPWWVtOcbdVQQzv01ajl8,El Whisky de Dios - En Vivo,Zambayonny,,0.545,0.266,-14.759,0.583,0.802,0.0,0.711,0.867,77.747,4,9,0
+283NIRno2srDoclKAPmk0F,El Favor,Las Pastillas del Abuelo,argentine rock,0.377,0.664,-5.63,0.0465,0.309,0.0,0.15,0.427,75.191,4,0,1
+6KDSrToeuM3UGiqEB1qNRN,Tutank’mon,Alan Sutton y las criaturitas de la ansiedad,,0.61,0.607,-7.414,0.0807,0.0738,1.75e-06,0.122,0.842,107.969,4,2,1
+5DRQ4gbV0G3ZlCoNStk3CS,Hay Que Comer,El Cuarteto De Nos,rock uruguayo,0.561,0.839,-5.549,0.0368,0.034,0.0,0.111,0.532,139.961,4,2,1
+15m2Op4d1ZtX0ScPaDNKcd,Vino Tinto,Estopa,pop flamenco,0.694,0.935,-3.215,0.105,0.359,0.0,0.0324,0.797,92.478,4,7,1
+4s1LnLQZDVvAmzudHJs2kA,Goliardos,Lepoka,spanish folk metal,0.393,0.99,-3.793,0.0946,8.4e-05,0.000107,0.182,0.185,165.058,4,7,1
+298w9ctLcj2YLvA17c6azA,Arte Moderno,IZAL,spanish indie pop,0.571,0.818,-5.559,0.0367,0.22,0.0,0.0769,0.455,141.948,4,8,0
+4hTXeWayUVMwoz6v1CviSN,Copacabana,IZAL,spanish indie pop,0.62,0.81,-7.194,0.0485,0.0093,4.51e-06,0.207,0.512,144.924,4,9,0
+1kasAbWIuasNPe1wNQ29qZ,Muérdeles,La Raíz,ska espanol,0.755,0.933,-4.799,0.048,0.0107,0.0,0.0671,0.646,112.989,4,5,1
+59OZFynwa8dvBXCCGZKxCp,El Cuarteto Tapicero,El Cuarteto De Nos,rock uruguayo,0.693,0.825,-11.754,0.0973,0.414,0.0,0.314,0.871,147.371,4,9,1
+6wLQT5JQj4Px9BbRn7Ylau,Los Locos,McKlopedia,boom bap espanol,0.686,0.446,-12.383,0.104,0.39,4.95e-05,0.115,0.798,81.964,4,2,1
+0ohwsEUcp35gxowpLEx0os,Doble identidad,El Cuarteto De Nos,rock uruguayo,0.528,0.922,-2.818,0.0368,0.0051,0.0,0.503,0.641,129.934,4,0,1
+19vhfSUgVJO2enJ6XidUGO,Molinos De Viento,Mägo de Oz,celtic metal,0.491,0.877,-3.758,0.0425,0.000259,0.0,0.0876,0.819,138.31,4,7,1
+1J7Shem8gdOSiB5oHOxwNM,Desde la Postura,Las Pastillas del Abuelo,argentine rock,0.758,0.552,-8.424,0.0262,0.106,1.35e-06,0.67,0.735,96.898,4,9,0
+0dQPkfweyWDzZ20Auq3F14,La danza del fuego,Mägo de Oz,celtic metal,0.477,0.836,-5.662,0.0506,0.033,3.43e-05,0.248,0.213,131.812,4,0,1
+76GLflx9QeYC0pjhYyASo7,Tiburones en el Bosque,El Cuarteto De Nos,rock uruguayo,0.514,0.859,-7.002,0.0616,0.134,0.0,0.0984,0.484,123.38,4,9,1
+6VVBXRsXAuN5UvqKNw7j0l,Cacho a Cacho,Estopa,pop flamenco,0.456,0.843,-8.682,0.0559,0.105,0.00176,0.0939,0.842,79.608,4,0,1
+7bRA9BXy3nNpTOvABDD6EM,Història d'Espanya (Explicada pels Espanyols),Brams,rock catala,0.752,0.885,-5.827,0.0534,0.137,0.0,0.0838,0.816,102.974,4,0,1
+5UB4pyeyR7d4LLJfVN4Kis,Rap Bruto,Residente,venezuelan hip hop,0.495,0.83,-3.857,0.346,0.183,0.0,0.079,0.579,82.671,4,9,1
+6MllW0bsv7ZRUPSUlzNrkR,Me Bajo,ZPU,rap conciencia,0.484,0.747,-7.879,0.209,0.712,0.0,0.114,0.695,138.039,4,3,0
+2rGAIoUicUqQ1hK0YlRShJ,Llora,Rapsusklei,boom bap espanol,0.792,0.803,-6.079,0.103,0.16,0.0,0.338,0.718,126.01,4,10,0
+0DXPqpQC4HWt2RbcBv7ttW,Diluvio,Rapsusklei,boom bap espanol,0.613,0.725,-9.731,0.841,0.206,0.0,0.812,0.57,84.274,4,11,0
+19TGi5QfX6Xj1GuRvStcQ5,Simbolos,Rapsusklei,boom bap espanol,0.62,0.745,-6.832,0.291,0.39,0.0,0.177,0.682,94.331,4,4,0
+0cAJMbqcT7PZZ2FtlRZD0D,Enero,Rapsusklei,boom bap espanol,0.711,0.629,-6.289,0.209,0.522,0.0,0.138,0.696,89.989,4,10,0
+2THlf4MhAOjn2OpGCmOyUW,A Fuego,Rapsusklei,boom bap espanol,0.725,0.832,-4.239,0.353,0.127,0.0,0.0768,0.646,88.367,4,2,0
+6tR7jCnOKTWzhIMbDdXgSu,No Puedo,Gonzalo Genek,peruvian hip hop,0.787,0.577,-8.971,0.256,0.645,0.0,0.112,0.686,86.052,4,5,1
+3B56Mr3QophjrI2hB9R2qc,Amor Sin Contrato,Gonzalo Genek,peruvian hip hop,0.773,0.609,-9.277,0.413,0.635,0.000187,0.26,0.885,88.183,4,4,0
+0DjSa6czo5ywsf6iCtZW5A,Cannabis,Ska-P,ska,0.563,0.913,-2.741,0.0543,0.176,8.24e-06,0.107,0.952,120.884,4,7,1
+0p3rxgmQPN5y6QEMzliGZc,Mis Colegas,Ska-P,ska,0.532,0.96,-2.188,0.0487,0.00151,5.29e-06,0.0639,0.689,163.841,4,7,1
+1B2KqBbo71jf5n3lftM6G2,Inés,Boikot,hardcore punk espanol,0.572,0.899,-4.88,0.0633,0.00265,0.000384,0.0967,0.857,155.052,4,4,0
+4kJP8Z888wREJ8bRMWNMuk,La vereda de la puerta de atrás,Extremoduro,indie extremena,0.403,0.893,-2.735,0.0474,0.437,0.000173,0.11,0.527,141.194,4,9,0
+0tnUWBM4TDh9YiOh4XWPfF,Vino en Mi Jeringa,El Cuarteto De Nos,rock uruguayo,0.506,0.766,-9.052,0.0382,0.237,0.0,0.112,0.453,160.071,4,0,1
+2qOvJOOTDDT4BzuN6gs9uE,Vino en Mi Jeringa,El Cuarteto De Nos,rock uruguayo,0.531,0.767,-9.796,0.0564,0.0338,0.0,0.129,0.791,97.419,4,2,1
+6DWAOntbxkpsgKs9iJDEhW,Locura transitoria,Extremoduro,indie extremena,0.433,0.638,-9.331,0.0517,0.226,0.0862,0.119,0.35,137.81,4,6,0
+4ejxQjTq8KyjfEHt6NbrYc,Muerto Pero Vivo - En Vivo,Cuatro Pesos de Propina,musica popular uruguaya,0.644,0.92,-5.149,0.0784,0.0806,0.000129,0.904,0.794,110.95,4,0,1
+3KCh9BNkDmh5NIr36w3ERX,Represento,ZPU,rap conciencia,0.407,0.865,-4.379,0.437,0.676,0.0,0.205,0.372,80.131,4,6,1
+3N17UG6Afw3DxXRcAmkOw5,Un Día de Furia,ZPU,rap conciencia,0.647,0.99,-2.171,0.319,0.21,0.0,0.355,0.592,92.909,4,0,1
+6KL2AJqqZhmGeQHBzHq92X,Ángel Guardián,ZPU,rap conciencia,0.655,0.606,-4.784,0.124,0.567,0.0,0.436,0.199,94.024,4,11,0
+3rvpRbeo8H1hwxtuj6REcp,Mamá Me Dijo,ZPU,rap conciencia,0.687,0.784,-3.741,0.217,0.382,0.0,0.084,0.948,84.961,4,7,1
+745kmHSwugfDhult82d47J,Respeta Tus Sueños,Locus,rap conciencia,0.558,0.86,-6.346,0.277,0.0371,0.0,0.235,0.638,90.899,4,8,0
+5rGXHIBXrINjQuab5zLLKM,Mi Mejor Amigo,ZPU,rap conciencia,0.586,0.781,-7.459,0.303,0.484,0.0,0.103,0.44,146.039,4,7,0
+4Z1p2M8ycX5CGzovCXr1QL,Todo Lo Que Importa,SFDK,rap politico,0.703,0.802,-7.319,0.241,0.0603,0.0,0.0716,0.727,88.672,4,6,0
+381KeLD7eIbeSEzQmxRs7x,Non é verán de Estrella Damm,Ezetaerre,rap galego,0.69,0.88,-4.996,0.128,0.718,0.0,0.0853,0.758,94.995,4,1,1
+4EtriYD2qsXOHLCtN9K4db,Don,Miranda!,electronica argentina,0.779,0.868,-4.718,0.0612,0.173,1.01e-05,0.172,0.97,121.053,4,8,0
+4gRu8e9ohJhZx4i1DByb56,Estudiar y Trabajar,Ases Falsos,chilean indie,0.619,0.479,-5.177,0.0331,0.0486,0.0,0.115,0.877,124.112,4,10,1
+0SG4xDNll1vn1JgIXBDvda,Señores en el Brunch,SFDK,rap politico,0.808,0.726,-5.895,0.33,0.325,0.0,0.196,0.841,119.819,4,7,1
+0bd6dXLLP9gU9R7ExxtJPi,Pandora,Mala Praxis,rap politico,0.802,0.816,-3.214,0.0674,0.804,0.0,0.055,0.543,80.299,4,9,1
+3my6Uz9RmXcJB7yEnrth7C,Underground,Tom Waits,folk,0.766,0.323,-17.026,0.0656,0.113,0.00418,0.0936,0.765,155.957,4,5,0
+0eCwAiq4qzQJJgQVaqUaCN,Swaggin' at the Partment,Ghostface Playa,drift phonk,0.533,0.948,-4.832,0.0681,0.00574,0.874,0.476,0.406,92.571,4,1,0
+6oytv9amMEx3pxSw9UmEtv,El Gato Lopez,Ska-P,ska,0.605,0.989,-1.68,0.0901,0.069,0.0,0.33,0.727,110.103,4,0,1
+0vLJOfGD9un0zK5K4UlTO4,La Soledad Comienza,Xhelazz,rap conciencia,0.634,0.917,-4.13,0.216,0.0308,0.0,0.106,0.626,90.938,4,8,1
+3Hh2NDo6xmxPZEVQ4E7NOT,No Somos Latinos,El Cuarteto De Nos,rock uruguayo,0.442,0.849,-4.005,0.0854,0.0109,0.0,0.168,0.696,192.203,4,2,1
+5mnpMkzp3Z2RCCbwIEZCbv,Phonky Town,PlayaPhonk,drift phonk,0.805,0.816,-4.685,0.346,0.363,0.826,0.121,0.338,124.966,4,1,1
+03y045SZqaC94yfXl1cU4E,Petrouchka (feat. PLK),Soso Maness,french hip hop,0.624,0.802,-4.818,0.311,0.0597,0.0,0.252,0.818,133.888,4,6,1
+6kenOvzeNY6GxXTWKic1wd,Fuego,Shotgun Willy,meme rap,0.773,0.845,-2.494,0.054,0.322,0.0,0.135,0.612,134.98,4,1,0
+0Gsw1SddS8flrLquzTLxkH,6 Días de Asueto,Riki Musso,rock uruguayo,0.531,0.675,-5.591,0.162,0.131,3.05e-05,0.173,0.261,146.612,5,6,1
+0RE4crnT3jRms1xxVlEZx2,Bad boy,Marwa Loud,french hip hop,0.796,0.496,-8.165,0.0388,0.431,5.51e-06,0.0781,0.716,97.988,4,9,0
+0ZICpziYDXDYmQ38hgJuXE,La posada de los muertos,Mägo de Oz,celtic metal,0.443,0.923,-3.043,0.0709,0.00146,0.0,0.0868,0.554,146.082,4,0,1
+4tFYyQurNsy2ST5IfgeKhs,I si demà no tornara,Obrint Pas,hardcore punk espanol,0.491,0.975,-3.714,0.124,0.0635,0.0,0.206,0.889,180.003,4,11,0
+37l4Qgcn1CuGlXx0jKhLpi,Caminamos,El Cuarteto De Nos,rock uruguayo,0.734,0.752,-6.049,0.0386,0.00859,1.84e-05,0.0852,0.541,117.998,4,9,0
+1XekWoZnWxXD7yZODzIDmo,Whisky en Uruguay,El Cuarteto De Nos,rock uruguayo,0.721,0.622,-6.627,0.0256,0.765,0.000249,0.117,0.334,102.907,4,0,1
+4mQhKCxIWCdF8oDFnWZ47c,El Día Que Artigas Se Emborrachó,El Cuarteto De Nos,rock uruguayo,0.599,0.797,-7.772,0.0575,0.0158,0.0,0.316,0.909,159.988,4,2,1
+3giKdDV3Kf8omC3dAsYhaL,Борода,Zmey Gorynich,russian folk metal,0.629,0.957,-4.767,0.146,0.0054,7.78e-06,0.491,0.706,150.034,4,11,1
+0ZE9OMXrBODYPdXD9OM47q,BACKWARDS,Ghostface Playa,drift phonk,0.506,0.935,-2.457,0.0459,0.0171,3.13e-06,0.186,0.281,174.952,4,9,1
+13VEtVCYfLTVsq5STs3SlW,LUZ DELITO,WOS,argentine indie,0.583,0.977,-2.674,0.277,0.276,0.0,0.544,0.704,89.965,4,9,1
+0EMJ0Vs5E6VchaJuLRKdfq,La Flor de la Sandía (Frutas en el Aire),Riki Musso,rock uruguayo,0.676,0.698,-5.498,0.0343,0.0783,0.0,0.116,0.863,130.998,4,0,1
+2kHMrSmCFjxS76sQnhdxfJ,El lado soleado de la calle,El Cuarteto De Nos,rock uruguayo,0.639,0.933,-3.32,0.0301,0.132,0.0,0.312,0.949,130.011,4,0,1
+54BzdXywkL08S9uxFuqwWQ,Nuestro Aporte,Riki Musso,rock uruguayo,0.94,0.725,-7.395,0.0472,0.0102,0.000806,0.0565,0.978,121.993,4,7,1
+4cdo24WodaLQMdYrMa8KaJ,Nadie Pone Fin,Antílopez,flamenco fusion,0.845,0.773,-4.974,0.0326,0.00486,0.0778,0.125,0.761,115.998,4,7,0
+7DQfrqIhMwLvoQSdtWknOh,Code Red,Dr. Phonics,speedrun,0.482,0.972,-2.94,0.109,0.000561,0.0442,0.0616,0.743,170.042,4,1,1
+436ZEAYaedGUIUAfrFa6SH,Сорочинская ярмарка,Zmey Gorynich,russian folk metal,0.614,0.975,-3.466,0.0834,0.000341,4.51e-06,0.64,0.369,110.101,4,6,0
+6wvZKqzwmBZBBuBmgFi9Rd,Bella Ciao de Libertad,La Sonora Yarana,,0.545,0.82,-3.744,0.0412,0.34,1.04e-05,0.213,0.701,107.87,4,9,0
+3mR3YUKYS7MWCrjKiUFYop,Cotidianidad,Orión,,0.601,0.771,-5.231,0.031,0.169,0.0,0.11,0.87,94.994,4,7,1
+675IFHR3rOjk7agtkH7UJP,The Most Mysterious Song on the Internet,Scooter,,0.551,0.777,-9.254,0.0352,0.146,0.00224,0.095,0.417,130.001,4,7,1
+4RMRDTEu39u9G4XrrEGiXf,Rasputin (heavy demo version),Turisas,folk metal,0.346,0.958,-2.391,0.113,7.08e-05,0.000488,0.29,0.634,81.062,4,11,0
+6TSjtPuHtAlS8AHkOu8AQU,Mundo Hipócrita,Green A,rap conciencia,0.894,0.622,-5.811,0.299,0.103,1.1e-06,0.0974,0.696,96.96,4,8,1
+7qfWb1KWbSssLMhfTsyT3C,They Took the Like,BloodyD,,0.662,0.692,-5.022,0.209,0.0176,0.788,0.159,0.487,165.117,4,5,0
+7CHDC5kUFQwIHsK1hhGpol,Criminal,Riki Musso,rock uruguayo,0.469,0.802,-4.22,0.0619,0.0486,0.292,0.345,0.682,164.982,3,4,0
+7AzlLxHn24DxjgQX73F9fU,No Idea,Don Toliver,rap,0.652,0.631,-5.718,0.0893,0.524,0.000579,0.165,0.35,127.998,4,6,0
+3EqqRfm2hQpui26Tz5yBtd,El Empleado y la Muerte,El Cuarteto De Nos,rock uruguayo,0.466,0.568,-13.037,0.0314,0.0833,0.0,0.358,0.515,157.631,4,1,1
+6cNSOKvw5hYVrOCrLw8joJ,Dream On (Glee Cast Version) (feat. Neil Patrick Harris),Glee Cast,glee club,0.417,0.622,-4.706,0.0299,0.0128,2.46e-06,0.614,0.224,154.022,4,3,1
+1xsYj84j7hUDDnTTerGWlH,Dream On,Aerosmith,album rock,0.392,0.476,-7.583,0.0249,0.397,0.000163,0.309,0.234,78.031,4,1,1
+1vgfNhZVIU37PVkLXSuek6,Solari,Cuatro Pesos de Propina,musica popular uruguaya,0.736,0.73,-4.528,0.0304,0.0658,0.0,0.041,0.964,104.006,4,9,0
+0uCKawvDKjr0AegelrzSuX,El aprendiz,El Cuarteto De Nos,rock uruguayo,0.573,0.658,-5.557,0.0396,0.0195,0.0,0.209,0.481,105.052,4,1,0
+3xdzopoC8RLPrY8lKs0MSa,30 Monedas,Los Estramboticos,latin alternative,0.643,0.908,-5.878,0.0406,0.000262,3.93e-05,0.23,0.876,162.02,4,4,0
+6XxIFsqBxiUct0UK7deoJ0,Carnavalintro,Chano,argentine telepop,0.588,0.885,-4.356,0.221,0.141,0.0,0.339,0.776,190.198,4,6,0
+6nqdgUTiWt4JbABDurkxMI,Sahara,Hensonn,drift phonk,0.615,0.521,-9.488,0.0318,0.146,0.772,0.11,0.045,115.016,4,2,1
+3luzfQAgpTWihtYQN5XBmO,"Gasolina, Vidrio y Mecha",Boikot,hardcore punk espanol,0.276,0.954,-3.165,0.24,0.00423,0.0,0.403,0.419,79.994,4,0,1
+2ksyzVfU0WJoBpu8otr4pz,METAMORPHOSIS,INTERWORLD,phonk brasileiro,0.593,0.641,-12.727,0.0992,0.426,0.901,0.122,0.147,175.014,4,7,0
+5jW3rF4URMdK7tO2xjS5EI,Tal Vez,Paulo Londra,argentine hip hop,0.855,0.649,-2.443,0.151,0.25,0.0,0.0801,0.741,161.986,4,8,1
+3XF5xLJHOQQRbWya6hBp7d,you should see me in a crown,Billie Eilish,art pop,0.678,0.533,-10.485,0.186,0.462,0.219,0.139,0.323,150.455,4,4,1
+2NWaWZZLFMcr5P4uI2KvWy,En El Radio Un Cochinero,Victor Cibrian,corrido,0.696,0.623,-8.738,0.0438,0.466,8.61e-06,0.0983,0.965,154.028,3,6,0
+2KOR0FNI6I9OgSH0w59oCI,FIGHT CLUB,MoonDeity,gym phonk,0.701,0.9,1.099,0.129,0.00158,0.946,0.626,0.506,109.135,4,1,1
+74xJ93SJIeY3yunnJ3lbGm,Calle de la Llorería,Rayden,rap conciencia,0.588,0.897,-3.255,0.231,0.0522,0.0,0.73,0.612,94.152,4,4,1
+2HXixVqzzm9rEUIMAWzshl,I Hate Myself for Loving You,Joan Jett & the Blackhearts,glam punk,0.611,0.882,-11.225,0.0538,0.0847,1.08e-06,0.192,0.605,117.932,4,9,1
+5Kc2wsk09yBPe4RDQMwXF4,Purple Passion,Diana,,0.572,0.977,-3.651,0.0535,0.0309,0.728,0.223,0.816,168.011,4,2,0
+619p8Frf2gdv76xeN7At76,I Can Do Anything / Finale,Christopher Lennertz,soundtrack,0.475,0.373,-9.069,0.0472,0.584,0.73,0.416,0.137,123.664,4,9,1
+1K45maA9jDR1kBRpojtPmO,Attack of the Killer Queen,Toby Fox,indie game soundtrack,0.46,0.978,-7.974,0.0477,0.391,0.176,0.249,0.456,144.017,4,10,1
+299X2r8Ei0ecTat3CdmdaA,Beethoven Virus,Diana,,0.541,0.956,-3.781,0.113,0.0124,0.841,0.0643,0.673,156.025,4,9,0
+78OBZL4Z6QHdwwloWIh0Lt,Teenagers,My Chemical Romance,emo,0.463,0.857,-3.063,0.0632,0.0506,0.0,0.184,0.856,111.647,4,4,1
+4oMyggIzClkOcCTvotFLkP,Why Not,Ghostface Playa,drift phonk,0.725,0.984,-1.638,0.0351,0.000718,0.895,0.372,0.931,119.983,4,9,1
+080PmEUcM6GjVE13suRCfq,Fire Magic,Virtual Mage,mallsoft,0.684,0.552,-9.745,0.0335,0.126,0.763,0.193,0.565,95.985,4,5,0
+3VSt7R9LHTomKGP1RhkvuT,Una y Otra Vez,Rombai,cumbia pop,0.685,0.799,-5.945,0.0542,0.122,0.00244,0.374,0.892,105.069,4,0,0
+655QAfdhzs2uNgDs7YSxPW,Se Abrió la Vela,La Raíz,ska espanol,0.833,0.758,-5.021,0.047,0.0358,7.54e-06,0.114,0.755,92.98,4,4,0
+1xOEQF08gMK0lHuBrHHQww,Animales Hambrientos,Desakato,punk urbano,0.519,0.918,-5.539,0.0418,0.0017,7.76e-05,0.164,0.447,96.051,4,8,1
+777zXDJpBufzttU4AJ2dGO,I Don't Want To Set The World On Fire,The Ink Spots,lounge,0.445,0.146,-16.064,0.0333,0.962,1.05e-05,0.249,0.332,86.637,4,5,1
+6YefwI4679EKTwDzbvCpRd,GARRETTS REVENGE - 2018 Cover,Aidan Vaughn,,0.781,0.392,-14.912,0.0462,0.494,0.0197,0.102,0.309,139.951,4,7,1
+1jDMi92a9zNQuPD3uPMkla,Fallen Down,Toby Fox,indie game soundtrack,0.624,0.66,-12.779,0.0569,0.797,0.786,0.114,0.871,110.021,3,2,1
+598B9RU1jZhObFSQJhisIa,Birthday Suit,Cosmo Sheldrake,pov: indie,0.701,0.572,-8.115,0.222,0.83,8.43e-05,0.121,0.524,62.542,4,8,1
+1mJDRVCd0L65QSxfut8r3u,Brittle Bones Nicky,Rare Americans,pov: indie,0.773,0.744,-6.103,0.0689,0.182,0.0,0.239,0.71,129.954,4,1,0
+79Ze2WRxpZDoMgi3V6vziD,Hijo de la Luna,Stravaganzza,reggae catala,0.405,0.955,-3.483,0.39,0.0217,0.0,0.122,0.188,160.158,3,1,0
+0xyhHET6yRf0GQyEH6yexU,Señoras y Señores,Sonotones,punk urbano,0.466,0.953,-5.044,0.069,7.48e-05,0.0164,0.0774,0.433,150.127,4,10,0
+5BvuyYHjA98IxU0nQUGzZr,Heavy Soul,The Black Keys,alternative rock,0.432,0.617,-3.125,0.049,0.53,0.00553,0.122,0.873,98.326,4,0,0
+7f922j0QjIUJI7v3aAGQiP,Al Mas Allá,Los Daniels,latin alternative,0.316,0.936,-2.863,0.0898,0.0349,0.0392,0.0757,0.665,182.607,4,4,0
+35xmSciP2D7fkPVQVjYdKe,Norwegian Reggaeton,NanowaR of Steel,comic metal,0.608,0.804,-5.354,0.0616,0.0423,0.0,0.303,0.706,103.914,4,1,1
+4qn2ZtHRDmcfgVPnl38N8p,El asesino del tiempo,Dinamo,ska espanol,0.62,0.977,-1.396,0.0408,0.135,0.0,0.633,0.968,154.184,4,9,0
+3y7rAWPbsbUpjbqGFxIAww,Adán vs Zeus Rap,MegaR,latin viral rap,0.63,0.855,-7.225,0.209,0.195,0.0,0.425,0.409,85.995,4,9,0
+57kYeaTLlVpVQMdflUoxYw,Rómpase el Vidrio en Caso de Emergencia,Allison,latin alternative,0.442,0.99,-1.752,0.111,0.000272,6.18e-05,0.264,0.303,184.931,4,0,1
+5WFMNTNftON3cLPLVa7kwi,Mundial 2006- Canal 4,Señor Trepador,spanish rock,0.615,0.825,-4.871,0.0492,0.0481,0.0,0.0799,0.874,100.048,4,9,1
+63WuQOXohQIxOxIFA2K7bR,SUPERMODEL,Måneskin,indie rock italiano,0.636,0.876,-3.413,0.0555,0.00164,0.0,0.117,0.799,120.983,4,7,1
+3wmy2N3KGBM9qKRRb2bNLr,Una Noche Más,Robleis,pop argentino,0.904,0.682,-4.208,0.0898,0.173,0.0,0.0938,0.93,92.003,4,5,0
+0vbtURX4qv1l7besfwmnD8,I Took A Pill In Ibiza - Seeb Remix,Mike Posner,dance pop,0.664,0.714,-6.645,0.111,0.0353,8.42e-06,0.0843,0.71,101.969,4,7,0
+5PeuB1pbYu2YiqJyTcgR1T,They're Not Happy About Me,Gabriel Templar,,0.767,0.646,-7.45,0.101,0.6,0.0,0.0968,0.654,98.955,4,1,0
+5Us3svqTvNAdnQfEYfoL5g,La Trampa es Ley,LIT killah,argentine hip hop,0.596,0.71,-5.815,0.136,0.243,0.0,0.204,0.632,117.871,4,6,1
+1TsrGEUQWMA7t542V7ppuP,Lent,Autoheart,hopebeat,0.624,0.928,-4.289,0.0316,0.218,0.0,0.312,0.668,102.029,4,3,1
+5nFQqOyGBIC4jhddXgYNxW,Sácame de aquí,Gritando en Silencio,punk urbano,0.543,0.93,-2.928,0.0428,0.00018,0.0,0.204,0.75,94.988,4,7,1
+5Ujrafg3IAx5DjjBUkndSz,Rodeada de idiotas,Cobardes,,0.539,0.793,-7.211,0.0512,0.00579,9.05e-05,0.132,0.417,149.166,4,11,1
+2GZKHCkIh25MTJHAFT7YoQ,Naixen Primaveres,Aspencat,indie valenciana,0.6,0.917,-4.061,0.0748,0.0277,0.0,0.166,0.762,181.993,3,9,0
+6xiXTpLR2J7epOmttWW984,Mecha,Chano,argentine telepop,0.699,0.729,-4.506,0.0377,0.135,2.7e-06,0.334,0.637,93.971,4,6,0
+1Fw3koFuC2VWhPneAX2Gz4,Bedroom Rockstar,Blame Blop,,0.47,0.933,-8.024,0.0775,0.242,1.37e-05,0.188,0.637,99.366,4,10,1
+7fVAyNC0cFsCNiGxCgSbwV,Aquellos Años,The Bobby's,punk euskera,0.564,0.983,-2.041,0.0457,0.00195,0.0,0.215,0.722,130.031,4,2,1
+6IMZPYjW7FKdpMJcybAQMW,Volar,Agua Bendita,ska catala,0.289,0.842,-6.902,0.052,0.00547,0.466,0.109,0.791,197.71,4,1,0
+4umN41ggyywUcvMbZxhcHR,Oh No!,MARINA,metropopolis,0.776,0.9,-3.97,0.0382,0.058,0.0,0.256,0.963,127.051,4,0,1
+2bFi0AdS4Ylh0BeJar5yw1,En Tarros de Miel,Sinkope,indie extremena,0.595,0.836,-6.611,0.0623,0.000129,0.0,0.0774,0.174,95.995,4,5,1
+7tiu52iT5YeFY7QhOCpmOs,Esbarzers,La Gossa Sorda,musica valenciana,0.816,0.804,-5.914,0.0365,0.0474,0.0,0.0838,0.963,143.97,4,6,0
+6Ur2sj2Q8E2Dp4x3erQWN4,Trasegando,Marea,punk urbano,0.479,0.976,-4.397,0.085,8.63e-05,0.00946,0.179,0.626,89.89,4,11,1
+0uRC1one5JBBT6MyxNRcjy,Corazones Ambulantes,Valira,indie valenciana,0.586,0.655,-4.181,0.0424,0.0107,0.0,0.165,0.884,181.916,4,2,1
+0tKdc5LRn5omaRRJJQ5wlh,Muchachos Esta Noche Me Emborracho,La Mosca Tse-Tse,latin alternative,0.616,0.764,-6.232,0.0424,0.53,0.0,0.0653,0.913,113.917,4,7,0
+2NdH1GtFbmcoUQBkvX0zUL,Español,Ciniko el Octavo Arte,rap politico,0.436,0.809,-6.59,0.35,0.0419,0.0,0.104,0.622,170.31,4,2,1
+45PIqvbAcMWK8DC3QkQu5p,Esclavos,Mala Praxis,rap politico,0.74,0.734,-2.116,0.262,0.431,0.0,0.16,0.82,97.541,4,1,1
+4cX2HECxTnhFTGHJ72RYt1,Purificación,Día Sexto,rap galego,0.597,0.936,-3.77,0.0997,0.498,0.0,0.245,0.884,163.001,4,2,1
+1Bddl2xpVtMPwn78K8dHu3,La Cigarra y la Hormiga,Sons of Aguirre,rap metal espanol,0.667,0.905,-6.062,0.14,0.0328,0.0,0.278,0.476,102.478,4,11,1
+2Kbr1l42WvrWR0O9BaOIGe,El Pais de Alicia,Envidia Kotxina,punk urbano,0.511,0.986,-2.47,0.188,0.0145,0.0117,0.326,0.578,174.9,4,2,1
+6nSmBTQCy2yZLj8NjNnqcL,Comancheria,Los Chikos del Maiz,rap politico,0.588,0.94,-4.62,0.315,0.37,0.0,0.107,0.725,96.965,4,11,0
+7gwT3HGL84vF7bgtwL1N88,Ojos Marrones,Lasso,pop venezolano,0.809,0.649,-4.433,0.0416,0.0407,0.0,0.145,0.72,120.014,4,8,0
+5rLi8B8qgk6qThwRnKHW2P,The Ballad of Mona Lisa,Panic! At The Disco,pop,0.436,0.893,-4.18,0.0556,0.000362,0.0,0.103,0.0794,124.113,4,9,0
+38SWtyvUlLY7JRztpPB7N0,L'acqua der tevere,Rancore,italian hip hop,0.55,0.467,-9.329,0.268,0.831,0.0,0.259,0.908,113.475,1,2,0
+13yE6UlhBfDgGZ56xUCnXu,Razones,El Cuarteto De Nos,rock uruguayo,0.652,0.831,-3.823,0.0331,0.245,0.0,0.128,0.773,107.982,4,11,0
+6rj4baRaVhzNcXk3bu4afW,La mejicana,Tata Barahona,chilean indie,0.454,0.549,-9.779,0.0693,0.818,5.69e-05,0.363,0.44,175.234,3,9,0
+31Fhs0pNaSsxYEavOPPN88,Puta Locura,Blake,rap politico,0.868,0.456,-10.427,0.103,0.34,0.0,0.0917,0.639,95.047,4,2,0
+2hS7Bn1HsYlBw4xQ6drw1u,Get High,Elane,rap underground espanol,0.699,0.699,-7.17,0.24,0.603,0.0,0.332,0.549,90.209,4,0,1
+3BVdbbFSuhVBHsvCgqCSTx,Seguimos en Pie,Lepoka,spanish folk metal,0.438,0.974,-3.352,0.113,0.00207,0.0,0.337,0.779,182.218,4,0,1
+2lXPDGSJBfF3tvelCmPfUN,Cara B,SFDK,rap politico,0.763,0.751,-4.484,0.267,0.159,0.0,0.0583,0.871,176.057,4,8,1
+1IV1pNKKPtSeJEA5BPTu1e,Leave It All To Me (iCarly chill),Torpe,,0.526,0.597,-7.262,0.157,0.73,0.0,0.282,0.655,207.771,5,2,1
+6Zq5MmCCWhZMdcsZVbCsbg,A Puñetazos Con los Abrazos,Silencio Absoluto,punk urbano,0.617,0.849,-3.962,0.0913,0.0826,0.0,0.11,0.616,163.995,4,4,0
+3Nz3EIAo136Ki1fh7hXcfc,Octubres Rotos,Desakato,punk urbano,0.584,0.879,-5.189,0.0361,0.000157,0.000384,0.182,0.302,134.974,4,2,1
+0HqZX76SFLDz2aW8aiqi7G,Bones,Imagine Dragons,modern rock,0.773,0.742,-3.678,0.046,0.0206,0.0,0.0754,0.571,114.071,4,5,0
+17pOLaBouf2EleJjsHfJSg,Hooked On A Feeling,Blue Swede,classic swedish pop,0.547,0.82,-6.728,0.0805,0.261,0.0,0.3,0.933,118.208,4,8,1
+06qEGQMavekDfu9fVsFAMz,I Love Rock 'n' Roll,The Black Jets,,0.762,0.482,-4.35,0.0734,0.0725,3.26e-06,0.0802,0.684,94.009,4,4,0
+27NovPIUIRrOZoCHxABJwK,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,lgbtq+ hip hop,0.736,0.704,-7.409,0.0615,0.0203,0.0,0.0501,0.894,149.995,4,3,0
+6YUTL4dYpB9xZO5qExPf05,Summer,Calvin Harris,dance pop,0.596,0.856,-3.556,0.0346,0.0211,0.0178,0.141,0.743,127.949,4,4,0
+68EkhVWIeULhHxcbi1QhzK,World's Smallest Violin,AJR,pov: indie,0.68,0.697,-7.01,0.0484,0.121,0.0,0.661,0.684,116.033,4,5,1
+3ZOEytgrvLwQaqXreDs2Jx,Can't Stop,Red Hot Chili Peppers,alternative rock,0.618,0.938,-3.442,0.0456,0.0179,0.0,0.167,0.875,91.455,4,9,1
+3bidbhpOYeV4knp8AIu8Xn,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,,0.641,0.922,-4.457,0.0786,0.0291,0.0,0.0862,0.847,146.078,4,2,1
+7e89621JPkKaeDSTQ3avtg,Sweet Home Alabama,Lynyrd Skynyrd,album rock,0.596,0.606,-12.145,0.0255,0.181,0.000327,0.0863,0.886,97.785,4,7,1
+3E4ZzO4ySupnYypDPXcc3D,Rockstar,Duki,argentine hip hop,0.875,0.855,0.642,0.0938,0.0906,0.0,0.174,0.33,123.981,4,9,1
+3FNy4yzOhHhFBeA5p4ofoq,"Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,g funk,0.553,0.652,-6.685,0.206,0.0897,0.0,0.111,0.551,94.505,4,0,1
+7sLAaxuPpzSBZHJeDdhz2U,Bang Bang,Blake,rap politico,0.882,0.782,-6.835,0.0804,0.00381,0.0131,0.128,0.811,125.023,4,4,1
+39dJktBetsIgMLjFifrm6p,Ansiedad 3,Liz Forte,urbano espanol,0.779,0.821,-5.083,0.0618,0.185,0.0,0.0563,0.458,150.059,5,3,0
+2LKOHdMsL0K9KwcPRlJK2v,After Dark,Mr.Kitty,weirdcore,0.585,0.595,-10.444,0.0328,0.0696,0.266,0.0837,0.039,140.037,4,8,1
+6lyKOW0FNW6aAZdKVgoM8m,Good Time,Alan Jackson,country,0.652,0.767,-10.445,0.0372,0.0355,6.92e-06,0.397,0.73,132.017,4,9,1
+2XU0oxnq2qxCpomAAuJY8K,Dance Monkey,Tones And I,australian pop,0.824,0.588,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,4,6,0
+3DCSgpzzdFwH4fwMcGi7Pr,Incantation,Russell Brower,video game music,0.0847,0.11,-19.767,0.0408,0.99,0.785,0.112,0.0221,79.763,3,2,1
+1KzO88hc8I7InCz4IM0u3J,Me da igual,Charlie USG,,0.617,0.878,-4.46,0.058,0.000134,0.0,0.169,0.823,159.962,4,0,1
+5LgEnbi7P6taZ8UKtHeygA,Llaman a la Puerta,Pochi Marambio y Tierra Sur,reggae peruano,0.926,0.548,-11.514,0.0896,0.391,0.00103,0.338,0.667,106.99,4,4,0
+5y8xgNEwQx8sQfHSuw15Qf,Lobos,Kamikazes,spanish punk,0.226,0.991,-2.602,0.0862,0.000328,0.0665,0.382,0.33,102.251,4,4,0
+0RyfX2mvCmwKBEWXD434tq,Frankenstein Posmo,El Cuarteto De Nos,rock uruguayo,0.598,0.759,-7.132,0.0384,0.263,0.00305,0.139,0.806,138.001,4,11,1
+4mkrVjzTjKy1qttNNipfsL,Nuberu,mafalda,punk catala,0.602,0.818,-8.689,0.0439,0.00641,0.000174,0.0978,0.318,90.996,4,4,0
+1sIq6r8UYBG03bBcg9qVfc,Valley of the Fallen,Scila,melodic groove metal,0.554,0.916,-4.467,0.151,0.000997,4.76e-06,0.105,0.503,90.018,4,1,1
+3scW7pt0vlhkCCgCNv5YR9,La Noche Mas Linda,Adalberto Santiago,salsa,0.886,0.748,-9.584,0.0399,0.775,0.0635,0.0656,0.969,152.07,4,5,1
+75UMtPC77vqKRwfSuYuNPO,San Lucas,Kevin Kaarl,indie triste,0.577,0.363,-12.378,0.0263,0.86,0.000282,0.0868,0.265,91.511,4,7,1
+2tTmW7RDtMQtBk7m2rYeSw,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,argentine hip hop,0.621,0.782,-5.548,0.044,0.0125,0.033,0.23,0.55,128.033,4,2,1
+0ROMalDdNg3L2HoZP4qFyJ,"The Four Seasons: Concerto No. 4 in F Minor, RV 297 ""L'inverno"" (winter): I. Allegro non molto",Antonio Vivaldi,baroque,0.4,0.247,-18.249,0.0423,0.818,0.64,0.119,0.394,162.078,4,5,0
+45Cll8v6YLVa10EvCrP11j,Ragtime,Vince De Vera & Jason Garner,,0.779,0.362,-13.332,0.203,0.982,0.846,0.0831,0.966,184.726,4,4,0
+4hceSKjrkDTO0nMKFcb3sj,"Villano Antillano: Bzrp Music Sessions, Vol. 51",Bizarrap,argentine hip hop,0.82,0.752,-7.635,0.0648,0.0584,0.00417,0.628,0.423,127.999,4,1,0
+3qQsdqO1T3IrsaB87i6PAD,Danza dell'autumno rosa,Talco,indie veneto,0.508,0.857,-4.741,0.0726,0.0429,2.62e-05,0.268,0.5,171.166,4,6,0
+0dSyp0Ll2nLUqUh1uvxb5i,A la Soledad,Desakato,punk urbano,0.55,0.778,-5.815,0.027,0.000905,0.000645,0.125,0.316,99.936,4,8,1
+5Q6fh8OEhBYepJaORz9lxe,Daddy Issues (Remix) feat. Syd,The Neighbourhood,modern alternative rock,0.623,0.533,-8.164,0.0653,0.245,0.00717,0.112,0.247,84.982,4,10,1
+37adYGaYaAWTGhBaOzX4Fh,Take A Slice,Glass Animals,gauze pop,0.623,0.661,-7.0,0.1,0.0212,0.000229,0.267,0.63,151.97,4,9,1
+1K2RnVhm3eauKnA8PAcPu1,Heat Waves - Slowed,Glass Animals,gauze pop,0.633,0.55,-9.965,0.0924,0.649,0.000363,0.147,0.333,147.099,4,9,1
+7kDD0sZCzLWalmbxLX4xMa,Si Te Lastimé - acústico,Seven Kayne,argentine hip hop,0.738,0.437,-8.844,0.0457,0.723,0.0,0.149,0.709,134.865,4,8,1
+1VrwBgWyGqro52jYSWS5YY,Llueve en Semana Santa,La Raíz,ska espanol,0.754,0.879,-4.51,0.038,0.0214,0.0,0.498,0.799,111.48,4,9,1
+3tk0F3IofksZWFhRxSOZjI,Malabares,Los De Marras,punk urbano,0.605,0.916,-3.026,0.078,0.0013,1.69e-06,0.342,0.775,94.968,4,1,1
+5WUSFdBFiSipPACl0nbDEd,Entre tus piernas,Gritando en Silencio,punk urbano,0.664,0.842,-4.816,0.0522,0.0272,0.0,0.0939,0.675,128.019,4,9,1
+174LzUiYeKlC5rySXPtRg1,Nuestra Nación,La Raíz,ska espanol,0.537,0.917,-3.274,0.0612,0.00214,0.0,0.054,0.835,179.983,4,1,0
+2Xnwl1eRKRJoLDZ6cRxkE3,La Tormenta,Desakato,punk urbano,0.391,0.991,-3.921,0.218,9.27e-05,0.00081,0.295,0.327,154.962,4,11,0
+4ysVkD5SJnidvdeyKk97Lp,Korsakov,Boikot,hardcore punk espanol,0.448,0.858,-5.093,0.0964,0.00655,1.71e-05,0.186,0.595,94.804,4,8,1
+5k0btdDbZjHtHanzky847r,De Festi? Vale,Trashtucada,spanish punk,0.395,0.947,-3.585,0.127,0.0146,0.0,0.0679,0.632,184.841,4,11,0
+4FjNOWxwlUgf30G9fMggpN,Hablarán las Calles,Boikot,hardcore punk espanol,0.666,0.935,-2.973,0.127,0.13,0.000542,0.11,0.465,115.001,4,1,0
+496O2EfJmGm6LQpWjt9bGj,Salgo a la Calle (Bonus Track),Boikot,hardcore punk espanol,0.669,0.898,-4.989,0.0893,0.00427,0.000312,0.0918,0.774,107.516,4,1,1
+7piw04hPQZ1OHZ9Fq9JOXR,Time of Dying,Three Days Grace,alternative metal,0.306,0.873,-3.668,0.0567,0.00105,0.0,0.52,0.452,198.387,4,0,0
+5PZ2cqh9Yem2g6cTSOLllz,Pain,Three Days Grace,alternative metal,0.416,0.741,-4.001,0.0335,0.00804,0.0,0.273,0.286,160.515,4,7,1
+3ECQXmZjCKCHZgsVa0DBzS,Rorschach,El Cuarteto De Nos,rock uruguayo,0.37,0.789,-6.944,0.0812,0.334,0.354,0.133,0.341,169.925,4,2,0
+2DuXBSTv5pkG9dc5TWDomK,Maldito Show,El Cuarteto De Nos,rock uruguayo,0.625,0.776,-6.638,0.05,0.168,0.579,0.158,0.807,136.019,4,9,0
+39K7E651wrt8PorEspTWb5,Mi Revolucion,Cuatro Pesos de Propina,musica popular uruguaya,0.582,0.421,-7.154,0.0251,0.0537,0.0,0.128,0.357,84.005,3,11,0
+2iOuy9LsnYTQCpaUTGApBe,Donde tan los pibes,Mc Caco,cumbia pop,0.616,0.884,-4.459,0.0735,0.194,9e-06,0.0897,0.93,96.86,4,0,1
+7xonDv1Le9tMf7F4ZXTzTT,La cajita feliz,Mc Caco,cumbia pop,0.937,0.73,-3.846,0.0634,0.0632,1.66e-06,0.0599,0.965,142.625,3,9,0
+0ZIxMgutG4aP7jfPcmRnYu,La Ciudad Sin Alma,El Cuarteto De Nos,rock uruguayo,0.648,0.705,-6.093,0.0388,0.521,1.12e-06,0.209,0.467,86.478,4,0,1
+6BbHSY7jAjT3hDVmjnRUIe,Humo,Rupatrupa,flamenco fusion,0.496,0.448,-6.441,0.0372,0.604,0.0,0.145,0.523,132.401,4,11,0
+5HSpMRUC4m3L3q48to2Kmu,So payaso,Extremoduro,indie extremena,0.435,0.899,-3.84,0.0656,0.0392,0.000447,0.115,0.377,150.546,4,4,0
+0Yjb59fAq6ShYYouwweNfB,Paté de Tofu,Sons of Aguirre,rap metal espanol,0.313,0.974,-5.289,0.172,0.00259,1.21e-05,0.673,0.701,103.531,3,7,1
+0sNwv0cBkQCtvAfjzJZbQ8,Consumo Gusto,Ska-P,ska,0.558,0.942,-3.832,0.0954,0.00105,0.00731,0.134,0.865,152.101,4,5,1
+4ElzHGmien7nf70YqQMO2h,Rico Deprimido,Kaotiko,euskal rock,0.587,0.881,-4.201,0.11,0.00145,0.0,0.236,0.536,107.492,4,10,0
+7rJ26a6Z13AUOjCXSe10UZ,Lloraré,Boikot,hardcore punk espanol,0.683,0.939,-3.623,0.0755,0.00422,3.77e-06,0.0893,0.84,95.084,4,4,0
+4eoMumgTE1bYZxiRqTN4df,Radio Clandestina,La Raíz,ska espanol,0.652,0.774,-4.685,0.0381,0.00765,0.0,0.345,0.961,149.952,4,7,1
+4zym5kQyHls6e5JZxm6UtO,Ni Fu Ni Fa,Ska-P,ska,0.729,0.972,-2.731,0.0415,0.0176,6.51e-05,0.158,0.945,105.999,4,9,1
+14rb1k1597yHftzHw46Abe,Velociraptor Vegano,Sons of Aguirre,rap metal espanol,0.408,0.944,-5.146,0.281,0.0402,0.0,0.676,0.554,100.055,4,7,1
+1UHdRkhzIpUDZJJMPDTo3f,A la Sombra de la Sierra,La Raíz,ska espanol,0.794,0.773,-5.251,0.0377,0.00729,0.0,0.247,0.795,109.957,4,4,0
+2JXn1MQeFqowxtRxgmefuk,Otra Noche,Kaotiko,euskal rock,0.552,0.932,-5.418,0.0488,0.0234,0.0,0.104,0.538,112.031,4,8,1
+5lEWyaVTW8ynLaKo0Xc5sK,Jaque al Rey,Ska-P,ska,0.673,0.932,-5.396,0.075,0.0143,1.22e-05,0.326,0.957,153.936,4,2,1
+4Qn4NJZZhMQVxVROSb0Je1,Jesucristo García - Versión 2004,Extremoduro,indie extremena,0.642,0.677,-5.488,0.0334,0.128,0.00414,0.108,0.472,88.041,4,11,0
+4am7X8WNcYhqnToqnFH625,La Bestia,El Cuarteto De Nos,rock uruguayo,0.532,0.879,-5.353,0.0616,0.0215,0.0,0.136,0.451,100.989,4,9,1
+2l2v3pRAsCs6V86PXDHVMe,La Estanquera de Saigón,Los Chikos del Maiz,rap politico,0.764,0.854,-5.867,0.154,0.154,0.0,0.267,0.905,97.043,4,0,1
+5VzfDf3J3AGem9WIX02Kcz,Mi Novia Es de Derechas,Los Chikos del Maiz,rap politico,0.81,0.565,-11.944,0.471,0.418,0.0,0.0827,0.79,95.934,4,1,1
+5Fronw7eoL0huzCEYSZe80,A la luz de una sonrisa,Gritando en Silencio,punk urbano,0.65,0.883,-4.6,0.0803,0.133,0.0,0.0787,0.693,89.945,4,3,1
+2xhkAlJjsSo3AqnwgnFBcx,Cadaveria,Mägo de Oz,celtic metal,0.441,0.896,-3.818,0.0593,0.00549,0.000367,0.155,0.5,65.971,4,6,0
+7yq4Qj7cqayVTp3FF9CWbm,Riptide,Vance Joy,folk-pop,0.484,0.731,-6.694,0.0379,0.431,0.0,0.151,0.51,101.654,4,1,1
+2JJuPgsSJJTfVZJkVO5CVp,Rutina en las venas - feat. Albertucho,Gritando en Silencio,punk urbano,0.492,0.6,-6.214,0.119,0.515,0.0,0.123,0.601,160.127,4,5,0
+23wbyzX57usJHzKosmFM5g,Talismán,Rata Blanca,argentine heavy metal,0.53,0.802,-5.604,0.0281,0.0159,6.61e-06,0.317,0.384,118.032,4,1,0
+3vPHCKu5UhbGLe9rs8dBGr,Scream,Dreamcatcher,k-pop,0.704,0.94,-2.233,0.158,0.0312,0.0,0.29,0.311,137.909,4,4,0
+3GwzOCZQzmuZzOq0Rp6jxN,martes 13,killdevil,trap triste,0.761,0.492,-6.813,0.107,0.372,0.0,0.117,0.257,75.501,4,1,1
+1nO2vGrP18kP5ok92k3MOH,Temerario,Itaca Band,reggae catala,0.65,0.804,-8.147,0.0575,0.0167,0.0,0.0976,0.879,150.028,4,2,0
+6YBBChCWBs546BtgxTtKqA,Medalla de cartón,Fito y Fitipaldis,latin rock,0.591,0.955,-3.979,0.0536,0.06,1.36e-05,0.183,0.714,150.214,4,7,0
+2Gt5oL4aEufZvJy9KjEkxi,Cigarrito,Platero Y Tu,punk urbano,0.686,0.775,-6.238,0.0276,0.00827,0.000185,0.476,0.828,110.039,4,7,0
+749QVthAEMdMPQdZBLQ98S,Jarama,Boikot,hardcore punk espanol,0.555,0.91,-5.054,0.0548,0.0102,0.000132,0.143,0.636,149.682,4,0,0
+6lKRMylSZMtA7EqPl0pcdI,Are You Satisfied?,MARINA,metropopolis,0.669,0.712,-4.992,0.0412,0.303,0.0,0.0755,0.843,124.009,4,0,1
+2YpeDb67231RjR0MgVLzsG,Old Town Road - Remix,Lil Nas X,lgbtq+ hip hop,0.878,0.619,-5.56,0.102,0.0533,0.0,0.113,0.639,136.041,4,6,1
+02MWAaffLxlfxAUY7c5dvx,Heat Waves,Glass Animals,gauze pop,0.761,0.525,-6.9,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,4,11,1
+4QXiKcZwVr6MmgBXjsdGdU,Agua Pasá,SFDK,rap politico,0.692,0.847,-4.408,0.187,0.423,0.0,0.0768,0.449,139.773,4,5,0
+7zUhVz7yMmO1mmbfFI8R5i,Pura Droga Sin Cortar,Violadores Del Verso,boom bap espanol,0.812,0.753,-4.627,0.318,0.203,0.0,0.348,0.743,90.045,4,4,0
+3lSOZb5rruEnFbe9xWELF6,Rue des trois frères,Fabrizio Paterlini,compositional ambient,0.354,0.169,-18.45,0.0405,0.959,0.889,0.1,0.105,138.125,3,8,1
+61YM5SkqqeUjIBL7It56cs,Nocturne Op. 9 No. 2,Frédéric Chopin,classical,0.446,0.0146,-31.047,0.12,0.991,0.945,0.116,0.0815,137.697,1,10,1
+4bW8Scxf4AMpjhdFbNw3dF,espiritu,Orslok,hyperpop en espanol,0.617,0.724,-6.942,0.031,0.239,0.000148,0.133,0.0424,140.059,4,0,1
+2bFGGsScXp2Tu10jKMCKO6,Figure You Out,VOILÀ,dark r&b,0.631,0.491,-8.141,0.0354,0.508,3.18e-05,0.177,0.537,94.912,4,11,0
+5tf1VVWniHgryyumXyJM7w,Sugar (feat. Francesco Yates),Robin Schulz,deep euro house,0.636,0.815,-5.098,0.0581,0.0185,0.0,0.163,0.636,123.063,4,5,0
+6XGDnUY1YOtIRegDVwKugM,Seguiré al Sol,Fyahbwoy,spanish hip hop,0.722,0.856,-3.911,0.164,0.507,0.0,0.282,0.716,90.969,4,9,0
+4uSlIN62vRGSsi8RmWp976,Domingo,El Virtual,hyperpop en espanol,0.811,0.42,-11.33,0.0997,0.237,3.22e-06,0.115,0.467,131.072,4,6,0
+2dsRqyrSxZb86jSo57cRUz,Madre Anoche En Las Trincheras,Archivo Adxunto,metal galego,0.466,0.815,-5.778,0.0365,0.00214,4.08e-05,0.12,0.616,184.975,4,0,1
+3dyQfqPEASyhbdCnIteJQY,Nos Da Igual,KG970,drill espanol,0.538,0.489,-9.317,0.167,0.143,1.37e-06,0.0656,0.612,138.964,4,10,0
+1ihuKaXmGw57QvDYSVyDCW,Back 2 Back x B10,KG970,drill espanol,0.708,0.525,-10.912,0.565,0.224,0.0,0.19,0.761,154.766,4,6,0
+4hAYQuavbB0FYhyxBTbVal,Te Marqué Pedo,Alex Luna,urbano mexicano,0.836,0.66,-3.939,0.0648,0.724,0.0,0.112,0.829,135.091,4,1,0
+0wZMiRXKitvHFhcSqZriAe,Soy y No Soy,El Chojin,rap conciencia,0.466,0.531,-11.843,0.216,0.726,0.0,0.106,0.885,87.255,4,7,0
+2rDZhKnPaPG054ExZ6nXUS,Jordan,Ryan Castro,reggaeton,0.796,0.68,-5.555,0.37,0.0575,0.000683,0.103,0.71,179.923,4,10,0
+22WO8XRRCDhoCUtcLQtl9C,Qué bien te quedaba,Walls,rap conciencia,0.746,0.759,-5.97,0.171,0.665,1.07e-06,0.339,0.675,104.994,4,5,1
+2Z4FBa6hAEh7VTHYCqXy7P,OPA,Dillom,trap argentino,0.931,0.612,-5.446,0.194,0.125,4.09e-05,0.088,0.846,100.023,4,8,0
+6fKCqK8OB2MVnYCHD9moHj,Tiranosaurius Rex,Kase.O,rap politico,0.842,0.757,-6.339,0.281,0.06,0.0,0.0628,0.578,111.938,4,5,0
+1kjs5eR4DMzyB0gm1Z8waV,DANCE CRIP,Trueno,argentine hip hop,0.857,0.766,-3.699,0.0978,0.108,0.0,0.0817,0.864,106.024,4,0,1
+6lQ7ubRjFRpxkRtlFnMJRl,Arre,Simpson Ahuevo,mexican hip hop,0.89,0.841,-4.568,0.0419,0.258,0.00388,0.0696,0.76,140.086,4,7,1
+0EYOdF5FCkgOJJla8DI2Md,B.Y.O.B.,System Of A Down,alternative metal,0.538,0.981,-2.688,0.14,0.00662,0.0,0.219,0.711,101.414,4,1,0
+2DlHlPMa4M17kufBvI2lEN,Chop Suey!,System Of A Down,alternative metal,0.417,0.934,-3.908,0.119,0.000278,0.0015,0.132,0.287,127.066,4,7,0
+0snQkGI5qnAmohLE7jTsTn,Toxicity,System Of A Down,alternative metal,0.413,0.873,-4.151,0.0536,0.000264,0.00249,0.204,0.48,116.68,3,8,1
+3hJxG3eSoXeI2XbQ9nBeK2,Obediencia Ciega,La Raíz,ska espanol,0.534,0.936,-3.945,0.114,0.00679,0.0,0.34,0.643,192.073,4,7,1
+3yUcJwYu7fXAfqMj9krY6l,Thank You,Dido,dance pop,0.725,0.583,-9.942,0.0427,0.3,0.000238,0.0665,0.762,79.984,4,1,0
+6LtHYDgYHRCHoKK3snfr2w,I’m Tired (with Zendaya) - Bonus Track,Labrinth,indie poptimism,0.375,0.133,-10.624,0.0352,0.651,0.0,0.0695,0.192,131.721,4,0,0
+6FuGJB290AQMAHTfjOYVaK,"Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",24kGoldn,cali rap,0.721,0.745,-3.508,0.0366,0.151,1.24e-06,0.372,0.699,90.988,4,7,0
+2lAal4IOk6IQFfRkGaLDA6,Dragon Ball Super Broly Rap,Porta,peruvian hip hop,0.774,0.619,-10.152,0.207,0.0274,0.0,0.0544,0.586,137.952,4,6,0
+1xtGtCsjab1g10nm6joLdZ,Dispárame,Calero LDN,rap politico,0.648,0.963,-4.703,0.106,0.109,0.0,0.208,0.52,155.925,4,4,0
+5JKDc7HClAX7gTibgUjuwu,Lumbre,Sharif,spanish hip hop,0.693,0.385,-8.863,0.304,0.621,4.27e-05,0.306,0.453,79.989,4,9,0
+5kt0OltAfepJ7QHSOch45K,Si Tú Supieras,Little Pepe,spanish hip hop,0.747,0.497,-8.8,0.163,0.0552,0.0,0.111,0.933,83.742,4,0,1
+6iVVHY41LSbfjeCIcki5LJ,Dando y Perdiendo (Remix),Rapsusklei,boom bap espanol,0.447,0.911,-3.874,0.254,0.0263,0.0,0.173,0.764,170.934,4,8,0
+13plTOJUDmgBrTEd7yzTgq,Cowboys Don’t Cry,Oliver Tree,alternative hip hop,0.608,0.638,-7.215,0.0561,0.217,0.0,0.324,0.457,87.956,4,8,1
+16PGd9HZZ4TSiQxtZYLSd9,The Internet,Oliver Tree,alternative hip hop,0.866,0.617,-8.323,0.0309,0.305,0.0935,0.126,0.809,109.994,4,0,1
+3iH29NcCxYgI5shlkZrUoB,gone girl,iann dior,melodic rap,0.677,0.714,-5.637,0.0287,0.162,0.0,0.0717,0.355,94.956,4,11,1
+5ls62WNKHUUrdF3r1cv83T,emotions,iann dior,melodic rap,0.63,0.63,-6.211,0.0395,0.0131,0.0,0.142,0.163,80.512,4,9,1
+0jk6J6B9ivegJc7dTg10Mp,Let Me Down,Oliver Tree,alternative hip hop,0.457,0.648,-5.762,0.0552,0.0114,1.69e-05,0.212,0.736,160.021,4,7,1
+2yDkReUeTjk9AT6oPWV55Q,Contra Viento y Marea,Lepoka,spanish folk metal,0.457,0.974,-2.943,0.107,1.8e-05,0.0,0.313,0.571,112.375,3,11,0
+36uNbyvWCUwSk3AnpQmu2I,thought it was (feat. Machine Gun Kelly & Travis Barker),iann dior,melodic rap,0.695,0.504,-6.09,0.0304,0.147,0.0,0.111,0.197,90.018,4,4,0
+54RpEEWkM8J06EWS7MmtED,MALA,Robleis,pop argentino,0.872,0.554,-5.046,0.117,0.115,0.0,0.0855,0.851,90.056,4,11,1
+7qBT9qcbtkLqrfm9LiTNB4,Piel Canela,Cuco,bedroom pop,0.874,0.71,-8.366,0.0482,0.188,0.000889,0.276,0.9,116.972,4,7,1
+4pK99WOgqZRQbeiac4Wjyi,Do I Make You Nervous?,Zepet,,0.653,0.703,-6.877,0.0346,0.0933,2.63e-06,0.117,0.791,115.086,4,9,0
+39LJCSHy7nB1akjmhMQ7Y7,Pain,Josh A,sad lo-fi,0.789,0.509,-8.629,0.277,0.525,7.55e-06,0.0936,0.61,75.009,4,6,0
+2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,reggaeton,0.644,0.648,-4.601,0.118,0.276,0.0,0.135,0.44,179.951,4,1,1
+6Ph8QwsRfZunN5e1GGBIqa,Hurt,Oliver Tree,alternative hip hop,0.563,0.784,-5.875,0.0402,0.0173,0.0,0.467,0.424,93.992,4,0,1
+3LGsgpx4TfxhXbr07OFKqs,Oblivion,Grimes,art pop,0.697,0.529,-8.838,0.0338,0.115,0.896,0.0895,0.486,155.974,4,2,1
+3YVIXYX8FVRYiQfcc47gyb,Sólo los Locos Viven la Libertad,Pedro Pastor,cantautor,0.471,0.916,-6.775,0.453,0.768,0.0,0.984,0.654,105.742,4,7,1
+4skuEIloXWuxxgekKupkEH,Tu Falta De Querer,Mon Laferte,latin alternative,0.394,0.475,-7.935,0.028,0.0251,0.00749,0.112,0.441,129.995,3,10,1
+0zTSmiDzVkIPUPjsHcUWpe,Disfruto,Carla Morrison,cantautora mexicana,0.433,0.123,-11.234,0.0468,0.887,0.0,0.106,0.137,181.882,4,1,0
+1DIXPcTDzTj8ZMHt3PDt8p,Gangsta's Paradise,Coolio,g funk,0.647,0.514,-10.05,0.0593,0.0655,0.0,0.398,0.386,79.975,4,8,1
+3gUE9hxZtrrNytY4YHaQG1,Déjate de cuentos,Brock Ansiolitiko,spanish hip hop,0.867,0.582,-7.004,0.116,0.265,2.71e-05,0.154,0.566,89.011,4,1,1
+1hEh8Hc9lBAFWUghHBsCel,Porcelain,Moby,downtempo,0.515,0.613,-8.423,0.0305,0.00147,0.202,0.449,0.357,94.925,4,0,0
+1J03Vp93ybKIxfzYI4YJtL,MEGALOVANIA,Toby Fox,indie game soundtrack,0.719,0.632,-9.849,0.0602,0.000377,0.855,0.0362,0.934,119.987,4,7,1
+25GrBh4vRCJpb142tggh2E,The Bonfire Behind The Slaughter,Oli Is MLG,,0.485,0.735,-1.853,0.231,0.275,0.0,0.0876,0.973,84.729,1,10,0
+2Oql5y6yNB0XUb8OWbi7pq,Flyday Chinatown,EVADE FROM 宇宙,,0.441,0.839,-7.534,0.224,0.173,0.915,0.233,0.9,128.407,4,7,0
+0kqWb82ACdjcObDqDqD0zg,"No Tengo Hambre, Tengo Ansiedad",Alan Sutton y las criaturitas de la ansiedad,,0.644,0.727,-5.144,0.121,0.0845,0.0,0.313,0.654,167.922,4,9,0
+2vOZZ5frOUXGdlyIqIGnUj,All My Friends Have Dogs,broox,bedroom pop,0.295,0.126,-19.422,0.0422,0.947,0.0113,0.149,0.0773,179.032,3,2,1
+2cGxRwrMyEAp8dEbuZaVv6,Instant Crush (feat. Julian Casablancas),Daft Punk,electro,0.775,0.585,-9.516,0.0271,0.0422,0.619,0.077,0.518,109.942,4,10,0
+2ZSh2anXpuTLC6utOkavyb,La Violencia,Agarrate Catalina,folklore uruguayo,0.781,0.605,-9.616,0.0957,0.207,0.0,0.09,0.764,95.031,4,6,0
+59TvbAzNoYyOGF6WntnZge,A Tu Vera,Los De Marras,punk urbano,0.361,0.864,-3.991,0.0754,0.0115,0.0,0.224,0.529,90.018,4,11,0
+4z2EeFUp5Lhai9qhHtA6IF,Salir,Extremoduro,indie extremena,0.316,0.645,-6.206,0.0431,0.291,0.00312,0.109,0.467,160.399,4,7,1
+1ey2nYPIpS7qGeZE649t8o,Aqui estoy clean,Missa Sinfonia,latin viral pop,0.364,0.586,-8.147,0.0375,0.0598,0.0,0.101,0.33,190.026,4,10,0
+40Tn8Uhu2GHHI64Tw8I7Jt,"El Corrido del ""ABDUZCAN""",Lalothing,rap anime,0.754,0.454,-10.7,0.0632,0.658,0.0,0.0957,0.827,112.483,3,9,0
+0xoao6vtEvZxZ7VCv1qji1,Zanguango,Leo Maslíah,canto popular uruguayo,0.671,0.45,-13.198,0.0396,0.275,7.78e-05,0.128,0.9,91.12,4,7,1
+3PuB6UwBXxbyu4y1AbJIwv,Un Ratito,Alex Soto,,0.85,0.703,-6.881,0.05,0.484,2.99e-05,0.112,0.913,94.005,4,5,0
+0ZLakHzHWqUIlkeDa4i8aC,Runaway,Los Pericos,argentine reggae,0.676,0.731,-5.253,0.0368,0.0438,1.26e-05,0.624,0.812,150.151,4,9,1
+3FAclTFfvUuQYnEsptbK8w,Back To Black,Amy Winehouse,british soul,0.434,0.422,-13.964,0.0375,0.134,2.05e-05,0.0861,0.377,123.201,4,7,0
+2wZOlqZsq00tdAlsmyh4YK,Gigantes de Arena,La Mente,peruvian rock,0.681,0.794,-6.216,0.107,0.0464,0.0,0.29,0.682,145.78,4,7,1
+3ECkz4odYU5HCv36zPYRwQ,Go Go Go Go! - Nightcore Version,Felsenstein,,0.594,0.914,-5.75,0.0956,0.00349,0.0142,0.4,0.639,168.514,4,4,0
+3d0SOLPqIBXkPZYl0CwhD7,Noches en Babylon,La Raíz,ska espanol,0.888,0.716,-6.157,0.0863,0.0451,0.0,0.107,0.744,95.982,4,7,1
+0BGwAKW4u8kWOhWFflZxfl,Astronaut In The Ocean,Masked Wolf,australian hip hop,0.778,0.695,-6.865,0.0913,0.175,0.0,0.15,0.472,149.996,4,4,0
+2uhTEPAQvGHa69xwEEFEpE,Una Canción para No Decir Te Quiero,La Maravillosa Orquesta del Alcohol,spanish indie pop,0.28,0.541,-7.424,0.0392,0.0605,0.0,0.14,0.42,69.114,4,4,0
+1XbkYc0szlepSM3Na5EcG5,Kualqiier Dia,Boikot,hardcore punk espanol,0.593,0.977,-4.015,0.159,0.00228,3.79e-06,0.0873,0.213,107.535,4,11,0
+3IfUwAUPyHvq5vfRMXK1WO,My head is spinning like a screw (Моя голова винтом),kostromin,,0.833,0.748,-5.963,0.229,0.0331,1.44e-06,0.0728,0.484,119.925,4,1,1
+6xqJ0XqDM9dVEW1jbm78wB,Discord,The Living Tombstone,otacore,0.677,0.83,-4.358,0.0452,0.00806,3.35e-05,0.0788,0.829,104.994,4,8,0
+1ovFnZv6mUe0LzAbfVqOmh,Dark Side,Blind Channel,oulu metal,0.571,0.955,-3.795,0.105,0.00254,1.55e-06,0.274,0.437,98.01,4,7,1
+47enw9R1hdkfuxeSjoDQ0N,Paparazzi,Kim Dracula,viral rap,0.677,0.685,-5.643,0.0505,0.0739,0.0,0.107,0.177,91.008,4,4,0
+67BtfxlNbhBmCDR2L2l8qd,MONTERO (Call Me By Your Name),Lil Nas X,lgbtq+ hip hop,0.61,0.508,-6.682,0.152,0.297,0.0,0.384,0.758,178.818,4,8,0
+5PXOPTdFcIJIumTvhDVpid,Kuntur,Lucho Quequezana,andean flute,0.662,0.685,-7.457,0.032,0.628,0.207,0.0926,0.492,149.613,3,9,0
+1Ahb1lGCvsRSlmThubFzsy,Triciclo Perú,Los Mojarras,peruvian indie,0.448,0.882,-5.683,0.147,0.0171,0.0304,0.0775,0.803,173.493,4,9,0
+5iwz1NiezX7WWjnCgY5TH4,Calma - Remix,Pedro Capó,latin pop,0.826,0.773,-4.218,0.0524,0.323,0.0,0.143,0.761,126.899,4,11,0
+4OgwXdylh75fHfwUzJTUqg,Rockstar,Ilkay Sencan,turkish deep house,0.771,0.826,-3.978,0.0604,0.142,0.03,0.145,0.185,100.012,4,11,1
+5QVX2tGOF4w19BHtWPNpFu,Astronaut In The Ocean,Arem Ozguc,turkish edm,0.712,0.867,-5.623,0.0581,0.0134,0.00939,0.196,0.544,126.005,4,4,0
+6ScI1xf3RszISXvLGmitY3,Corazon de mimbre,Marea,punk urbano,0.521,0.928,-3.548,0.0837,0.0235,0.0,0.0961,0.323,90.555,4,9,0
+3FS2e59gXFXrcg7sN2mL5z,Shots & Squats,Vigiland,deep pop edm,0.818,0.819,-5.052,0.116,0.00824,0.000392,0.225,0.279,128.02,4,1,1
+0cOXDRG1giESc1QVrHpbGE,Amateur (Rock Me Amadeus),Molotov,latin alternative,0.537,0.777,-5.129,0.121,0.0119,1.37e-05,0.254,0.543,85.011,4,0,1
+3qvoWt50uOnKulCDVNkrWT,Hit The Deep End,Jordan Phoenix,,0.592,0.731,-6.624,0.482,0.401,0.0,0.278,0.439,97.185,3,4,1
+3Wrjm47oTz2sjIgck11l5e,Beggin',Måneskin,indie rock italiano,0.714,0.8,-4.808,0.0504,0.127,0.0,0.359,0.589,134.002,4,11,0
+7GV2Vhko6RZloD7DmGUUFJ,La Gravedad de la Teoría,Albertucho,punk urbano,0.604,0.656,-7.708,0.032,0.149,0.000393,0.0982,0.531,117.116,4,6,1
+5f8T1Lbd35nauMBA3JfpJj,Descuida,Albertucho,punk urbano,0.451,0.599,-7.181,0.0619,0.0725,1.43e-06,0.107,0.305,169.953,4,9,0
+4bO6qABw4zTcA9mp37Q5uI,Capitán Cobarde,Albertucho,punk urbano,0.587,0.512,-6.658,0.0386,0.435,2.51e-06,0.155,0.267,119.948,4,0,1
