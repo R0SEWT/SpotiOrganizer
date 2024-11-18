@@ -1,5 +1,6 @@
 .env
 .cache
+.cache*
 npl.ipynb
 env/
 __pycache__/
