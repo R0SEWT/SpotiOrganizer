@@ -1,0 +1,572 @@
+genre,id,name,artist,cluster
+chilean rock,3D4iziSjHi4jxG8r4pta7z,Santiago De Chile,Los Bunkers,2
+latin alternative,19CmuECYssqkPWANF4nLWM,Para No Verte Más,La Mosca Tse-Tse,1
+latin alternative,2LsbizbOeNa4x6qsi2jAMb,La flaca,Jarabe De Palo,1
+chilean rock,6hBfF54vgIAdtb5kbbvt75,Nada Nuevo Bajo El Sol,Los Bunkers,2
+latin viral rap,1qgtSWA2GbpAXfyC51M1ph,Por Ti,4x3,1
+rock uruguayo,5FAS5CyNd5jXR9wRpRtn3L,Inevitablemente,D2o,2
+dance pop,3w3y8KPTfNeOKPiqUTakBh,Locked out of Heaven,Bruno Mars,2
+barbadian pop,49FYlytm3dAAraYgpoJZux,Umbrella,Rihanna,2
+argentine rock,0JEoezwc786AUMKs2CBQRI,Carismático,Babasónicos,2
+russian folk,7fss5WF5vuXRHvMsYRQXQH,Темная ночь,Mark Bernes,2
+dance pop,0ct6r3EGTcMLPtrXHDvVjc,The Nights,Avicii,2
+album rock,7ACxUo21jtTHzy7ZEV56vU,Crazy Train,Ozzy Osbourne,2
+latin alternative,7gKqjNMM4ikt7KFTRsgZgL,El Viejo,La Vela Puerca,1
+gym phonk,7vOmSP2647oNUGGEhWd1cr,Montagem Mysterious Game,LXNGVX,6
+rock uruguayo,3QaLlAMZDXa2s8eyVoowjw,"No Tengo Hambre, Tengo Ansiedad",Alan Sutton y las criaturitas de la ansiedad,2
+rap conciencia,18YCZgBpjvd7OiDzlqffj9,Ríe Cuando Puedas,El Chojin,2
+rock uruguayo,0GDOu0iuMWjSNyq37706Yj,Un problema menos,El Cuarteto De Nos,2
+edm,7MiZjKawmXTsTNePyTfPyL,Devil Eyes,Hippie Sabotage,2
+argentine alternative rock,08jZu9HOb1jPh4U95n9Iso,Santa Desesperanza,Zumbadores,2
+rock uruguayo,2tBOR5GtsrEUzvuvhHaiVU,Nocturno de la Estatua,Otro Tavella & Los embajadores del buen gusto,2
+punk urbano,0zpKWgFT6SpxQhGIlJRnFy,Animales hambrientos,Desakato,6
+indie extremena,5d0Keu9WXiN1XZsAG88VcF,Primer movimiento: el sueño,Extremoduro,7
+punk urbano,5Kw1iXud2UNTfLfpIMDogG,Seguimos vivos,Desakato,6
+punk urbano,077xWZZIJMDRl1fLZSnwEB,Octubres rotos,Desakato,6
+classical,2xizRhme7pYeITbH1NLLGt,"Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato",Pyotr Ilyich Tchaikovsky,6
+indie extremena,1aDeaDooAd79p2sdImGG4a,Dulce introducción al caos,Extremoduro,7
+art pop,0WFryfbNKPXVtVQlz5dZ8H,hotline (edit),Billie Eilish,2
+mexican indie,10rzSpg3kTFSr5e5tFy60A,Pruébame a Ti,Jósean Log,2
+rap conciencia,0obx517J85Rq970CuInlDr,tu refugio,Zenit,2
+colombian indie,62xokumU0wMqOSsBuefhmB,Te Alejas Más De Mí,Esteman,2
+brutal death metal,7dU9Z24yR9AKuS9cAe2Tj7,Subjected to a Beating,Dying Fetus,2
+neo soul,0YUSVg7dncF1TzZ3IFf6Zh,Disfigured,Rag'n'Bone Man,2
+art pop,1v1oIWf2Xgh54kIWuKsDf6,Runaway,AURORA,2
+canzone napoletana,7HgG6kaNPUltGHFP6aIS4L,Tu Vuo Fà L'Americano,Renato Carosone,2
+british indie rock,2kLWSmKHhfUBepkIA9oNe5,Abyss - from Kaiju No. 8,YUNGBLUD,7
+melodic metalcore,03jdl5GTBhKsgB1Yw8mVPh,In Between,Beartooth,2
+la indie,7ueP5u2qkdZbIPN2YA6LR0,Sail,AWOLNATION,7
+rap underground espanol,2XXP73OwM2WvZ2vcXAIDz3,El Lado Oscuro del Corazon,Costa,2
+baroque pop,1W0OCrMsRP1SLTEdw3JwEz,"Sweet Dreams, TN",The Last Shadow Puppets,2
+boom bap espanol,1T0kkgPuLxpEnIXV1NXGFf,Esta To Guapo,Rapsusklei,0
+boom bap espanol,5AIwfXYjGkWCs4KeeTk2Rq,Cantando,Violadores Del Verso,0
+classic soundtrack,4OWa2dOlmtvMDhFrFL0QA1,"La leçon particulière - Bande originale du film ""La leçon particulière""",Francis Lai,2
+funk mtg,1Sz402s2SN6nPicOA8DPah,Saka Saka Saka,MC Mazzie,2
+argentine rock,7EZvohNWHJ6W3sDOEeBsoU,Tu postura,Once Tiros,2
+galician rock,6Wv1yv5O9ZfzCdwEhuk31r,En Compostela,Dakidarria,2
+ska espanol,3MbNnqa8NahIrBdKRW2sX6,Por Amar al Arte,La Regadera,2
+rock uruguayo,6lSypaQOcC6JtzfwpINLGW,El hijo de Hernández,El Cuarteto De Nos,2
+eurodance,7yCF65vpc7sUwPjftI0iFb,Happy Nation,Ace of Base,2
+latin hip hop,4BxzNZpcm1j3JczZzGNe2k,Bandoleros,Don Omar,4
+soul jazz,5fdNHVZHbWB1AaXk4RBGVD,Just the Two of Us,"Grover Washington, Jr.",2
+bedroom pop,6FfLg6FFqhCsrFOaHIGkg0,Honeypie,JAWNY,2
+indietronica,2flxduIqEbsicdmPyj1WVW,Imagination,Foster The People,2
+salsa,1hiZqVgSKeVPJAjUKgJZMm,Aguanile,Héctor Lavoe,2
+cantautor,05ascW5kZSLsGM7sdr9Eot,Lodo,Xoel López,2
+cantautor,0pyT9W877RcYtVdl1ZmlvQ,Valiente,Vetusta Morla,2
+cantautor,4bZEZhCq2kqUxnMacXVl5x,Copenhague,Vetusta Morla,2
+cantautor,1ozbWlTQASs311dSO5R6vp,Lucha De Gigantes,Love of Lesbian,2
+venezuelan hip hop,0kc4G5tEdtmTB0w3gYmb01,Desencuentro (feat. Soko),Residente,4
+cantautor,569wwTXGm6Ujk1HeJjH6fj,Girasoles,Rozalén,2
+cantautor,0n2lJjskWdFCvLI3ExAGha,Vivir (with Estopa),Rozalén,2
+australian psych,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,Tame Impala,2
+album rock,3TO7bbrUKrOSPGRTB5MeCz,Time,Pink Floyd,2
+rock uruguayo,2U3rA2iYYrTFEeQg4u9S4b,Poema de los Dones,Jorge Luis Borges,2
+rock uruguayo,08THvDquCuP6yqDo5g5JLe,Chivo Expiatorio - En Vivo,El Cuarteto De Nos,2
+dance pop,1vvNmPOiUuyCbgWmtc6yfm,My Way,Calvin Harris,2
+edm,6h5PAsRni4IRlxWr6uDPTP,More Than You Know,Axwell /\ Ingrosso,2
+dance pop,7mitXLIMCflkhZiD34uEQI,Party Rock Anthem,LMFAO,2
+swedish pop,5MhsZlmKJG6X5kTHkdwC4B,I'm an Albatraoz,AronChupa,2
+electro,2Foc5Q5nqNiosCNqttzHof,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],Daft Punk,2
+trap triste,7ydVhVEl4cRGEAhxo7X5Ic,Pana Miguel,Keyan JRN,2
+ambient lo-fi,1FCsK0oKWCtDOYRPYSrYgO,Idea 22,Gibran Alcocer,9
+album rock,63T7DJ1AFDD6Bn8VzG6JE8,"Paint It, Black",The Rolling Stones,2
+chilean rock,6ftHPJyEHGqMaml3ZEwPm1,Llueve Sobre La Ciudad,Los Bunkers,2
+trap argentino,6b4ioB9n5Hkeu2GdSOWzJJ,C90 (Remix),John C,2
+salsa,3kNQh1pLaQbZZoh6GDzHGp,Me Tengo Que Ir,Adolescent's Orquesta,2
+salsa,1r2EerxDMVQbXxqsqnjUhy,Que Locura Enamorarme De Ti,Eddie Santiago,2
+salsa,26ucR33snMkRD6JExhoD6I,Una Aventura,Grupo Niche,2
+salsa,4ubwzNjqHGaZZ5k06PDx1H,Sin Sentimientos,Grupo Niche,2
+salsa,5XWfwjzFNl2pTB737fx7qr,El Gran Varón,Willie Colón,2
+salsa,3fRIuTih8bzc0vtY9fHhvF,Talento De Televisión,Willie Colón,2
+latin alternative,1nquycJ4zLhrT23rwtH5Wj,Vía Láctea,Zoé,1
+cantautora mexicana,100Tm6z29RfHTdUQ6NIs0s,Me Voy,Julieta Venegas,8
+indie triste,75ncCwXqalTnnl6t1ruQRq,Dueles Tan Bien,Bruses,7
+salsa,5xxR1xl7tiFlITtxzsuow0,La Rueda,Frankie Ruiz,2
+classic peruvian pop,3Pme6ghMt2iCDy4V2SqWPx,Cariño Malo,Los Kipus,2
+classic peruvian pop,2Ovxs4W5CIMcOIPLJq89ge,Déjalos,Los Embajadores Criollos,2
+dance pop,6I9VzXrHxO9rA9A5euc8Ak,Toxic,Britney Spears,2
+dance pop,6naxalmIoLFWR0siv8dnQQ,Oops!...I Did It Again,Britney Spears,2
+dance pop,6ic8OlLUNEATToEFU3xmaH,Gimme More,Britney Spears,2
+folk metal,7AqteBGkJ5edFjEfYf8mXf,Liki Bessmertnykh Bogov,Arkona,2
+latin alternative,68WeKkXsg8jUZ57t3bz6qe,Yo Me Voy Pa' la Cumbia,Sergent Garcia,1
+emo,04aAxqtGp5pv12UXAg4pkq,Centuries,Fall Out Boy,2
+alternative metal,0M955bMOoilikPXwKLYpoi,I Hate Everything About You,Three Days Grace,2
+alternative metal,6Nm8h73ycDG2saCnZV8poF,Dragula,Rob Zombie,2
+alternative metal,3Tg8JctqoeIwZ3Rue8BjaI,Ratamahatta,Sepultura,2
+emo,3Te8uLyit6X3ncNW8Fp3K2,Immortals,Fall Out Boy,2
+album rock,47atuTch0AN7NvP9vp42a5,Ramble Tamble,Creedence Clearwater Revival,2
+death metal,69Yia3qCLw6N9U80WhLwLn,Voice of the Soul,Death,6
+album rock,3q9G9SvgdfE1fxlvoDIb20,Paranoid,Black Sabbath,2
+mexican hip hop,4dUES55SAFKZp4ekMlLHWZ,NO SON KLLE,Santa Fe Klan,4
+argentine hip hop,1Hs1uUl8o2VtDp1DABFq0O,Los del Espacio,LIT killah,4
+rap politico,48vnZJGacXc78tqN9gcNPZ,Todo Lo Que Importa,SFDK,2
+boom bap espanol,41wVwJUWk1urN57CfAajMJ,Cleopatra,Rapsusklei,0
+rap politico,3OC3AO2zGgcyM7pAFO47YZ,Yemen,Kase.O,2
+british orchestra,14Qcrx6Dfjvcj0H8oV8oUW,"""In The Hall Of The Mountain King"" from Peer Gynt Suite N°1, Op. 46",London Symphony Orchestra,6
+pop peruano,2O1EHaqGqQjAqshMGOBfyB,Amor De Etiqueta,La Caro Band,2
+metropopolis,6IbnUaczZBT34DhaD6S18F,Bubblegum Bitch,MARINA,2
+ambient lo-fi,1lb3H41lbvAN28N7yqRNL9,Idea 10,Gibran Alcocer,9
+ambient,1Kb2DqjHRvOcT5xeWtz3t5,Ferme Les Yeux,Sylvain Chauveau,7
+background piano,1yqM5O07lL7R6UAdK5jvrR,Oceans Apart,Ben Crosland,7
+pop argentino,5eujblqQ4RS7WDwyqZuMrf,Martes Otra Vez (feat. Roberto Musso),Meteoros,2
+cello,6HkGQ1F0ZtPHbnp1GCdLZK,Opheliac,Emilie Autumn,6
+boom bap espanol,46RHz0aqfrwRmGMdEgenL4,Tantas Veces Dijeron,Rapsusklei,0
+piano rock,4h9wh7iOZ0GGn8QVp4RAOB,I Ain't Worried,OneRepublic,2
+singer-songwriter pop,5YqEzk3C5c3UZ1D5fJUlXA,Sunroof,Nicky Youre,2
+eurodance,52Zr0sinhWTCRrQhRRY4EP,Dragostea din tei,O-Zone,2
+flamenco fusion,7LrvlNIlAjAHVam2XbfN0N,La Rumba del Tartamudo,TéCanela,2
+rap politico,7zrmKJCfEHluOWJy8LFnTs,Ringui Dingui - con SFDK,Kase.O,2
+rap politico,3qwcu0SWVoSLHvlhV41uia,Tu Viento - Versión Deluxe,SFDK,2
+rap politico,2w9wysl19C7xQxQYN0S2p1,Todo Lo Que Importa,SFDK,2
+rap politico,4Vr8wfwNnm1HI4pfuANcd4,Orgullo Banderillero,SFDK,2
+mestissatge,749H5Zv3UejDRqMtE1UEAp,Sereno,ZOO,2
+rap politico,289zheQgtKtJ3qhK5YlDTU,Ser Feliz y No Llorar en el Intento,SFDK,2
+argentine rock,7Gjlbz4TEoeBGH43eEd3hs,Como Alí,Los Piojos,2
+rock uruguayo,5N9eyuZBayG61LAuriCFAr,Vamo a Bailar a Tribunales,Alan Sutton y las criaturitas de la ansiedad,2
+pop peruano,70tMZ6zOtPq18HMVPUgTyo,Solo una Vez,La Caro Band,2
+rap politico,75cH5pVAqBto7c2yyCy4It,Creencias Personales,SFDK,2
+rap politico,3MFXvcV1mR0ZS1h7aWx4kv,Jawelin,SFDK,2
+argentine rock,4VikOud5ZmdmHH6h7uQeDB,Nos Siguen Pegando Abajo,Charly García,2
+indie extremena,7qsVi4WfUTu87SoDMDi6wX,Escorpiones de Tequila,BAMBIKINA,7
+indie poptimism,6ytwjgwBRxYTUxYJbbkCtf,You're so Cold,Two Feet,7
+chicago rap,0USZx50eApN045zIIyjePN,All The Time,Jeremih,6
+pov: indie,7tySfDFfBiCjraLdoy6In5,Put It on Me,Matt Maeson,7
+indie poptimism,6MiVIH3fQlmz44jGx2DXn4,Love Is a Bitch,Two Feet,7
+otacore,5T3CKcSWLdue0NWwvF93fI,It's Raining Men,The Living Tombstone,2
+disco,2IvetNzSZMH5gwjInoyr18,It's Raining Men,The Weather Girls,2
+folk,2M9ro2krNb7nr7HSprkEgo,Fast Car,Tracy Chapman,2
+pop flamenco,6pWeJvzpQR1ihiUSJklOzD,Paseo,Estopa,2
+boom bap espanol,447r2keRxpkINmWYp83MlH,Maquiavélico,Canserbero,0
+trap argentino,7MVIfkyzuUmQ716j8U7yGR,Rara Vez,Taiu,2
+classical,02Wse1w8jxhXo5T7kRXgIe,"Leck mich im Arsch, K.231",Wolfgang Amadeus Mozart,6
+rock uruguayo,20n9GjrKJBmN7nMEb21cxc,Que Empiece el Juego,El Cuarteto De Nos,2
+alternative metal,1VNWaY3uNfoeWqb5U8x2QX,Lonely Day,System Of A Down,2
+sad rap,3M214U0mwSm041GsQR3nrO,Toxic,BoyWithUke,2
+sad rap,6dGqGkYDoRrKh5UiIcTT22,Understand,BoyWithUke,2
+sad rap,4YLKHaxYieIw6iMVfIvKm7,Migraine,BoyWithUke,2
+sad rap,4ZUpTMKPYFTfJqamWFU9Zv,IDGAF (with blackbear),BoyWithUke,2
+sad rap,5IXdkgrT4lb9sKIb8tbOQ3,Sick of U (with Oliver Tree),BoyWithUke,2
+alternative hip hop,1ypwNj8eK2qAMDEs4EiIIX,Miss You - Bonus Track,Oliver Tree,4
+melodic rap,3gr1pMLpDJGqErHhhl7dEO,thought it was,iann dior,2
+art pop,4BY4V1T0RJK1HmD2Q0ClyK,Oblivion,Grimes,2
+electropop,5DMrREzztuMUkLMDjMpJNY,Trampoline - Jauz Remix,SHAED,6
+modern rock,1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons,2
+punk urbano,0tr3v4Xa72pzKRlqb7v4Lu,Trasegando,Marea,6
+spanish punk,7svugfnT2bGt8zZTfVIclr,Lobos,Kamikazes,6
+sonora indie,7fBJbfwWRSCje16iboEAF7,Venimos del Desierto,Nunca Jamas,2
+indie extremena,5Srks36XWpQoF47EYF7ExI,Rojitas,Extrechinato y Tu,7
+icelandic indie,0y1QJc3SJVPKJ1OvFmFqe6,Way down We Go,KALEO,7
+argentine rock,2C6fzRAlaWOhKCOsn5a0Nk,Lo Que Me Mata,La Franela,2
+russian synthpop,41rML4de6ySFAEgusyvq3R,Юность,почтисчастье,2
+argentine indie,0cc3HERtXGbBijz4EGqIWW,Asado de fa,Sara Hebe,2
+rock uruguayo,4LAL36nGagL2EYjnXEz3vV,Insaciable,El Cuarteto De Nos,2
+argentine rock,3SqdNG4NyJwUNguqrmGtZ1,Incontinencia Verbal,Las Pastillas del Abuelo,2
+argentine rock,3SzuLiXQ0rsRRnt8mMXrNo,Price for freedom,La Franela,2
+rock uruguayo,3iOFY423D3690MfhE74F8A,21 de septiembre,El Cuarteto De Nos,2
+argentine rock,5px66MtTBtuiCuX4yhqNdr,Por Colectora,Las Pastillas del Abuelo,2
+argentine rock,6tsl5di0G2WX2vkmCiESeH,Enano,Las Pastillas del Abuelo,2
+argentine rock,3Azo521e0Tacq8znJWaDQO,Otra Vuelta de Tuerca,Las Pastillas del Abuelo,2
+lo-fi vgm,1XVunUrydy4GwHcz9LheFE,Haggstrom,Curly,9
+argentine rock,1wLYrmTo3HtsoTzfQnRZUY,Ojos de Dragón!,Las Pastillas del Abuelo,2
+rock uruguayo,7AVpYzzLEQeMoeSq190Ncy,Fiesta en lo del Dr. Hermes,El Cuarteto De Nos,2
+latin alternative,4MPwBYidOWnwpKlqQYJEzX,Va A Escampar,La Vela Puerca,1
+electronica argentina,2wVk026aPEMxofNQvBIr8n,Me Gustas Tanto (feat. Sidonie),Miranda!,2
+latin hip hop,0QUWDjKdItXClpaDbeaTAf,Quien Manda,Mala Rodríguez,4
+cantautor,5lsQpCUKFaqaBGUAl9rZPR,Cum Laude,El Niño de la Hipoteca,2
+rock uruguayo,2a7UjwEFKZcmwxglvwpBb3,Invierno del 92,El Cuarteto De Nos,2
+rock uruguayo,1ozuMsJLTvFIMvlW7AWq95,Ya No Sé Que Hacer Conmigo,El Cuarteto De Nos,2
+rock uruguayo,3tUk2PzTp8KCIU4cxstJq1,Yendo a la Casa de Damián,El Cuarteto De Nos,2
+rock uruguayo,5U4l5prXjPGv5fnP8nZ3kK,Hoy Estoy Raro,El Cuarteto De Nos,2
+rock uruguayo,0ePp0z6IzzKip3DQVw2S5Z,Todos pasan por mi rancho,El Cuarteto De Nos,2
+rock uruguayo,0m29Kyrm8caxQ22r1rZ4wn,El balcón de Paul,El Cuarteto De Nos,2
+rock uruguayo,35LdDKNMwvKftENaj1WIwF,Enamorado tuyo,El Cuarteto De Nos,2
+rock uruguayo,4LFrQltHBSWQ187o7oWJcS,Sólo estoy sobreviviendo,El Cuarteto De Nos,2
+rock uruguayo,7pJzbW7hZ1yOLUBqRq5ZBt,Hola Karma,El Cuarteto De Nos,2
+rock uruguayo,0YOwYApHSciCRtZmKTEgEa,Mirada de Nylon,El Cuarteto De Nos,2
+rock uruguayo,2TEnceAmZQR6bLLo5Fx7q9,Calma Vladimir,El Cuarteto De Nos,2
+rock uruguayo,5H8M2ffRKcdqJTc6YTt4c2,El Innombrable,El Cuarteto De Nos,2
+rock uruguayo,1Bo2c0WwPmzognDcmLFNMe,Invisible,El Cuarteto De Nos,2
+rock uruguayo,6H4x2MIySKNhrXdLkLJvcy,Fallaste Nostradamus,El Cuarteto De Nos,2
+rock uruguayo,5wjFUjiT4gKddiTX9urqN2,Contrapunto para Humano y Computadora,El Cuarteto De Nos,2
+cantautor,43HJPKlwZ5jRrMnMfLcQ2T,El Perro Freddy,El Niño de la Hipoteca,2
+punk urbano,0VQW5MJ1BP3FntQ9IzFBNM,Actitud,Gritando en Silencio,6
+indie extremena,1FKKvyrgMdJFwf0NdM7P5Q,Cerca del suelo,Extremoduro,7
+rap metal espanol,2v7exGU90YFXvlxUJ9dFvQ,Cristales Rotos,Sons of Aguirre,2
+ska espanol,7CXXzq7SIdH3I4L8m5P5h2,Solo Quiero de Ti,La Raíz,2
+rock uruguayo,5hXCTV8OCsNak8OVry7yzM,Bugambilia,Nasa Histoires,2
+indie extremena,5WWxj79hWjVq0wIBDCIw7T,Primer movimiento: Después de la catarsis,Robe,7
+rock uruguayo,5wNZtFOmq64IAq7tKkIv8d,Gaucho Power,El Cuarteto De Nos,2
+rap conciencia,0IfDzKy3k1t6OlfR1Zbo1B,"Ven, Pasa",ZPU,2
+latin hip hop,689o09PSSPw3BxnZHk2hNC,Quien Manda,Mala Rodríguez,4
+rock uruguayo,0j5u5RCr7LV4weyJdxkgR6,Nombres,El Cuarteto De Nos,2
+classic russian rock,3NHSz1GyC5IeK1soZSjIIX,ИСКАЛА,Zemfira,2
+alternative rock,6NFVDhRQpIueOxYuw5vQlz,Burning Down the House,Talking Heads,2
+eurodance,6E0QvksY8P840Sg2kzPUoy,Scatman & Hatman,Scatman John,2
+eurodance,6dugx9WBSS8TDxbKqp9zmj,Scatman's World,Scatman John,2
+alternative metal,0jqK7sGTLsHPkQrrcrGuKD,Still Waiting,Sum 41,2
+argentine rock,5s8onl5Lw5q1AijP5BUm7G,La mano de Dios (Homenaje a Diego Maradona),Rodrigo,2
+lo-fi vgm,3hdQekpCI2L2j15XwIG2Bd,Kass' Theme,Mikel,9
+anime lo-fi,2UpDlIw9aI9gK0GphKQjZ8,SAD! ~ lofi,Closed on Sunday,9
+indie extremena,6byvMlUkFmNZIl8aprXRhL,Cuarto movimiento: Yo no soy el dueño de mis emociones,Robe,7
+indie extremena,63Zg2q0NxOIoVu7olYHl9t,Segundo movimiento: Mierda de filosofía,Robe,7
+rock uruguayo,7DVhr2t5x2GLwhU3yFS3p1,Rapp Snitch Knishes (Live Instrumental) - Cover,OMA,2
+rock uruguayo,6q6YaZyb5MDaPofi60yeew,Furret Walk 8-Bit (Accumula Town),Henriko 8-Bit,2
+rap galego,7f1MocyOZrNKWgHKfyRHbo,Bailar morghulis,Día Sexto,2
+rap galego,4zF2MQued46ZoyOm8YQpyw,Más,Día Sexto,2
+reggae catala,2NK6Gq7j1plxRtAyYKdoKp,Rua Na Selva,Nativa,5
+anime score,0HDh5QaLfCwi2xyvkei917,Sis puella magica!,梶浦 由記,10
+argentine rock,29iIRrSuANyjnwag69PHOJ,Demoliendo Hoteles,Charly García,2
+argentine rock,34BMzIFvpIgacpqUvuNpOT,Maldición,Once Tiros,2
+musique militaire,6zI4eWfBKdujnnLmXTIHqJ,Моя любимая,The Red Army Choir,2
+classic schlager,31wVu1EYhWOFCECXTqLWQ4,Moskau,Dschinghis Khan,2
+rock uruguayo,2ltWiec0N2xBIu5Hvi5uM4,The Less I Know the Sexy Back,Gold Slides,2
+trap argentino,1DxEbt6OSbrkRthk6pjZue,MERCHO,LiL CaKe,2
+rock uruguayo,3RRb7m7zpenaWk4wyqcnm3,"Yes, the Music Is a Feeling",your best friend jippy,2
+lo-fi vgm,1kAg9rfHsyoYLEi7GxA4nM,Tal Tal Heights,Mikel,9
+indie arequipeno,4imCqtH8ZVmovPcozJKIom,Mamá No Me Quiero Casar,XDinero,7
+spanish indie pop,78CVgSm8s9pfpwCqvqzEYB,PRMVR,La Maravillosa Orquesta del Alcohol,2
+mestissatge,1DtrlY4mOFrtuqgMYjXVJL,Rituales de Santería,ZOO,2
+spanish indie pop,0fZgVsd0Bk64cAUOcUnQ0X,Vasos Vacíos,La Maravillosa Orquesta del Alcohol,2
+lo-fi vgm,0c4KyvtJPmHd5mnXYE5QnZ,Song of Storms,Mikel,9
+chilean rock,2kRGvesjW6DsXPfSrhjYVp,Mateo,Tronic,2
+rock uruguayo,4JkQU5XnvMu7WroV5QEZa6,Bipolar,El Cuarteto De Nos,2
+latin alternative,270ieNCOt945nOdUQubFI5,Para No Verme Más,La Vela Puerca,1
+argentine rock,5i9BN55sSR94Lfdes8seDp,Nos dijimos todo,Once Tiros,2
+argentine rock,34CKJs7AevJpbrE53OFJwO,Lacanao,Once Tiros,2
+rap conciencia,2Lo6jY6P6iiGMOfkx5N5Kt,Un Nuevo Yo Despierta,El Chojin,2
+rap politico,008BXU3kzngyZKVSjCyxpE,Un Pobre Con Dinero,SFDK,2
+boom bap espanol,0Ao7UyZ0IcKH9WQitKd0EL,Mañana Será Otro Día,Canserbero,0
+spanish hip hop,1jCBQphSQvBNDsCKYAxtP5,Con la Música a Otra Parte,Sharif,4
+rap politico,0PHtFrmcK2kcUVkjb4auvj,Lucifer,SFDK,2
+latin viral pop,1B0BQaSRHxhI0AUlItY3LK,MALAMENTE - Cap.1: Augurio,ROSALÍA,1
+cumbia pop,0YFoSD5VhoVrRbrnFERpVM,Yo te propongo,Rombai,2
+rock uruguayo,1MPWWVtOcbdVQQzv01ajl8,El Whisky de Dios - En Vivo,Zambayonny,2
+argentine rock,283NIRno2srDoclKAPmk0F,El Favor,Las Pastillas del Abuelo,2
+rock uruguayo,6KDSrToeuM3UGiqEB1qNRN,Tutank’mon,Alan Sutton y las criaturitas de la ansiedad,2
+rock uruguayo,5DRQ4gbV0G3ZlCoNStk3CS,Hay Que Comer,El Cuarteto De Nos,2
+pop flamenco,15m2Op4d1ZtX0ScPaDNKcd,Vino Tinto,Estopa,2
+spanish folk metal,4s1LnLQZDVvAmzudHJs2kA,Goliardos,Lepoka,2
+spanish indie pop,298w9ctLcj2YLvA17c6azA,Arte Moderno,IZAL,2
+spanish indie pop,4hTXeWayUVMwoz6v1CviSN,Copacabana,IZAL,2
+ska espanol,1kasAbWIuasNPe1wNQ29qZ,Muérdeles,La Raíz,2
+rock uruguayo,59OZFynwa8dvBXCCGZKxCp,El Cuarteto Tapicero,El Cuarteto De Nos,2
+boom bap espanol,6wLQT5JQj4Px9BbRn7Ylau,Los Locos,McKlopedia,0
+rock uruguayo,0ohwsEUcp35gxowpLEx0os,Doble identidad,El Cuarteto De Nos,2
+celtic metal,19vhfSUgVJO2enJ6XidUGO,Molinos De Viento,Mägo de Oz,2
+argentine rock,1J7Shem8gdOSiB5oHOxwNM,Desde la Postura,Las Pastillas del Abuelo,2
+celtic metal,0dQPkfweyWDzZ20Auq3F14,La danza del fuego,Mägo de Oz,2
+rock uruguayo,76GLflx9QeYC0pjhYyASo7,Tiburones en el Bosque,El Cuarteto De Nos,2
+pop flamenco,6VVBXRsXAuN5UvqKNw7j0l,Cacho a Cacho,Estopa,2
+rock catala,7bRA9BXy3nNpTOvABDD6EM,Història d'Espanya (Explicada pels Espanyols),Brams,5
+venezuelan hip hop,5UB4pyeyR7d4LLJfVN4Kis,Rap Bruto,Residente,4
+rap conciencia,6MllW0bsv7ZRUPSUlzNrkR,Me Bajo,ZPU,2
+boom bap espanol,2rGAIoUicUqQ1hK0YlRShJ,Llora,Rapsusklei,0
+boom bap espanol,0DXPqpQC4HWt2RbcBv7ttW,Diluvio,Rapsusklei,0
+boom bap espanol,19TGi5QfX6Xj1GuRvStcQ5,Simbolos,Rapsusklei,0
+boom bap espanol,0cAJMbqcT7PZZ2FtlRZD0D,Enero,Rapsusklei,0
+boom bap espanol,2THlf4MhAOjn2OpGCmOyUW,A Fuego,Rapsusklei,0
+peruvian hip hop,6tR7jCnOKTWzhIMbDdXgSu,No Puedo,Gonzalo Genek,4
+peruvian hip hop,3B56Mr3QophjrI2hB9R2qc,Amor Sin Contrato,Gonzalo Genek,4
+ska,0DjSa6czo5ywsf6iCtZW5A,Cannabis,Ska-P,2
+ska,0p3rxgmQPN5y6QEMzliGZc,Mis Colegas,Ska-P,2
+hardcore punk espanol,1B2KqBbo71jf5n3lftM6G2,Inés,Boikot,6
+indie extremena,4kJP8Z888wREJ8bRMWNMuk,La vereda de la puerta de atrás,Extremoduro,7
+rock uruguayo,0tnUWBM4TDh9YiOh4XWPfF,Vino en Mi Jeringa,El Cuarteto De Nos,2
+rock uruguayo,2qOvJOOTDDT4BzuN6gs9uE,Vino en Mi Jeringa,El Cuarteto De Nos,2
+indie extremena,6DWAOntbxkpsgKs9iJDEhW,Locura transitoria,Extremoduro,7
+musica popular uruguaya,4ejxQjTq8KyjfEHt6NbrYc,Muerto Pero Vivo - En Vivo,Cuatro Pesos de Propina,2
+rap conciencia,3KCh9BNkDmh5NIr36w3ERX,Represento,ZPU,2
+rap conciencia,3N17UG6Afw3DxXRcAmkOw5,Un Día de Furia,ZPU,2
+rap conciencia,6KL2AJqqZhmGeQHBzHq92X,Ángel Guardián,ZPU,2
+rap conciencia,3rvpRbeo8H1hwxtuj6REcp,Mamá Me Dijo,ZPU,2
+rap conciencia,745kmHSwugfDhult82d47J,Respeta Tus Sueños,Locus,2
+rap conciencia,5rGXHIBXrINjQuab5zLLKM,Mi Mejor Amigo,ZPU,2
+rap politico,4Z1p2M8ycX5CGzovCXr1QL,Todo Lo Que Importa,SFDK,2
+rap galego,381KeLD7eIbeSEzQmxRs7x,Non é verán de Estrella Damm,Ezetaerre,2
+electronica argentina,4EtriYD2qsXOHLCtN9K4db,Don,Miranda!,2
+chilean indie,4gRu8e9ohJhZx4i1DByb56,Estudiar y Trabajar,Ases Falsos,7
+rap politico,0SG4xDNll1vn1JgIXBDvda,Señores en el Brunch,SFDK,2
+rap politico,0bd6dXLLP9gU9R7ExxtJPi,Pandora,Mala Praxis,2
+folk,3my6Uz9RmXcJB7yEnrth7C,Underground,Tom Waits,2
+drift phonk,0eCwAiq4qzQJJgQVaqUaCN,Swaggin' at the Partment,Ghostface Playa,2
+ska,6oytv9amMEx3pxSw9UmEtv,El Gato Lopez,Ska-P,2
+rap conciencia,0vLJOfGD9un0zK5K4UlTO4,La Soledad Comienza,Xhelazz,2
+rock uruguayo,3Hh2NDo6xmxPZEVQ4E7NOT,No Somos Latinos,El Cuarteto De Nos,2
+drift phonk,5mnpMkzp3Z2RCCbwIEZCbv,Phonky Town,PlayaPhonk,2
+french hip hop,03y045SZqaC94yfXl1cU4E,Petrouchka (feat. PLK),Soso Maness,4
+meme rap,6kenOvzeNY6GxXTWKic1wd,Fuego,Shotgun Willy,2
+rock uruguayo,0Gsw1SddS8flrLquzTLxkH,6 Días de Asueto,Riki Musso,2
+french hip hop,0RE4crnT3jRms1xxVlEZx2,Bad boy,Marwa Loud,4
+celtic metal,0ZICpziYDXDYmQ38hgJuXE,La posada de los muertos,Mägo de Oz,2
+hardcore punk espanol,4tFYyQurNsy2ST5IfgeKhs,I si demà no tornara,Obrint Pas,6
+rock uruguayo,37l4Qgcn1CuGlXx0jKhLpi,Caminamos,El Cuarteto De Nos,2
+rock uruguayo,1XekWoZnWxXD7yZODzIDmo,Whisky en Uruguay,El Cuarteto De Nos,2
+rock uruguayo,4mQhKCxIWCdF8oDFnWZ47c,El Día Que Artigas Se Emborrachó,El Cuarteto De Nos,2
+russian folk metal,3giKdDV3Kf8omC3dAsYhaL,Борода,Zmey Gorynich,2
+drift phonk,0ZE9OMXrBODYPdXD9OM47q,BACKWARDS,Ghostface Playa,2
+argentine indie,13VEtVCYfLTVsq5STs3SlW,LUZ DELITO,WOS,2
+rock uruguayo,0EMJ0Vs5E6VchaJuLRKdfq,La Flor de la Sandía (Frutas en el Aire),Riki Musso,2
+rock uruguayo,2kHMrSmCFjxS76sQnhdxfJ,El lado soleado de la calle,El Cuarteto De Nos,2
+rock uruguayo,54BzdXywkL08S9uxFuqwWQ,Nuestro Aporte,Riki Musso,2
+flamenco fusion,4cdo24WodaLQMdYrMa8KaJ,Nadie Pone Fin,Antílopez,2
+speedrun,7DQfrqIhMwLvoQSdtWknOh,Code Red,Dr. Phonics,2
+russian folk metal,436ZEAYaedGUIUAfrFa6SH,Сорочинская ярмарка,Zmey Gorynich,2
+rock uruguayo,6wvZKqzwmBZBBuBmgFi9Rd,Bella Ciao de Libertad,La Sonora Yarana,2
+rock uruguayo,3mR3YUKYS7MWCrjKiUFYop,Cotidianidad,Orión,2
+rock uruguayo,675IFHR3rOjk7agtkH7UJP,The Most Mysterious Song on the Internet,Scooter,2
+folk metal,4RMRDTEu39u9G4XrrEGiXf,Rasputin (heavy demo version),Turisas,2
+rap conciencia,6TSjtPuHtAlS8AHkOu8AQU,Mundo Hipócrita,Green A,2
+rock uruguayo,7qfWb1KWbSssLMhfTsyT3C,They Took the Like,BloodyD,2
+rock uruguayo,7CHDC5kUFQwIHsK1hhGpol,Criminal,Riki Musso,2
+rap,7AzlLxHn24DxjgQX73F9fU,No Idea,Don Toliver,2
+rock uruguayo,3EqqRfm2hQpui26Tz5yBtd,El Empleado y la Muerte,El Cuarteto De Nos,2
+glee club,6cNSOKvw5hYVrOCrLw8joJ,Dream On (Glee Cast Version) (feat. Neil Patrick Harris),Glee Cast,2
+album rock,1xsYj84j7hUDDnTTerGWlH,Dream On,Aerosmith,2
+musica popular uruguaya,1vgfNhZVIU37PVkLXSuek6,Solari,Cuatro Pesos de Propina,2
+rock uruguayo,0uCKawvDKjr0AegelrzSuX,El aprendiz,El Cuarteto De Nos,2
+latin alternative,3xdzopoC8RLPrY8lKs0MSa,30 Monedas,Los Estramboticos,1
+argentine telepop,6XxIFsqBxiUct0UK7deoJ0,Carnavalintro,Chano,2
+drift phonk,6nqdgUTiWt4JbABDurkxMI,Sahara,Hensonn,6
+hardcore punk espanol,3luzfQAgpTWihtYQN5XBmO,"Gasolina, Vidrio y Mecha",Boikot,6
+phonk brasileiro,2ksyzVfU0WJoBpu8otr4pz,METAMORPHOSIS,INTERWORLD,6
+argentine hip hop,5jW3rF4URMdK7tO2xjS5EI,Tal Vez,Paulo Londra,4
+art pop,3XF5xLJHOQQRbWya6hBp7d,you should see me in a crown,Billie Eilish,2
+corrido,2NWaWZZLFMcr5P4uI2KvWy,En El Radio Un Cochinero,Victor Cibrian,2
+gym phonk,2KOR0FNI6I9OgSH0w59oCI,FIGHT CLUB,MoonDeity,6
+rap conciencia,74xJ93SJIeY3yunnJ3lbGm,Calle de la Llorería,Rayden,2
+glam punk,2HXixVqzzm9rEUIMAWzshl,I Hate Myself for Loving You,Joan Jett & the Blackhearts,6
+rock uruguayo,5Kc2wsk09yBPe4RDQMwXF4,Purple Passion,Diana,2
+soundtrack,619p8Frf2gdv76xeN7At76,I Can Do Anything / Finale,Christopher Lennertz,2
+indie game soundtrack,1K45maA9jDR1kBRpojtPmO,Attack of the Killer Queen,Toby Fox,2
+rock uruguayo,299X2r8Ei0ecTat3CdmdaA,Beethoven Virus,Diana,2
+emo,78OBZL4Z6QHdwwloWIh0Lt,Teenagers,My Chemical Romance,2
+drift phonk,4oMyggIzClkOcCTvotFLkP,Why Not,Ghostface Playa,2
+mallsoft,080PmEUcM6GjVE13suRCfq,Fire Magic,Virtual Mage,2
+cumbia pop,3VSt7R9LHTomKGP1RhkvuT,Una y Otra Vez,Rombai,2
+ska espanol,655QAfdhzs2uNgDs7YSxPW,Se Abrió la Vela,La Raíz,2
+punk urbano,1xOEQF08gMK0lHuBrHHQww,Animales Hambrientos,Desakato,6
+lounge,777zXDJpBufzttU4AJ2dGO,I Don't Want To Set The World On Fire,The Ink Spots,2
+rock uruguayo,6YefwI4679EKTwDzbvCpRd,GARRETTS REVENGE - 2018 Cover,Aidan Vaughn,2
+indie game soundtrack,1jDMi92a9zNQuPD3uPMkla,Fallen Down,Toby Fox,2
+pov: indie,598B9RU1jZhObFSQJhisIa,Birthday Suit,Cosmo Sheldrake,7
+pov: indie,1mJDRVCd0L65QSxfut8r3u,Brittle Bones Nicky,Rare Americans,7
+reggae catala,79Ze2WRxpZDoMgi3V6vziD,Hijo de la Luna,Stravaganzza,5
+punk urbano,0xyhHET6yRf0GQyEH6yexU,Señoras y Señores,Sonotones,6
+alternative rock,5BvuyYHjA98IxU0nQUGzZr,Heavy Soul,The Black Keys,2
+latin alternative,7f922j0QjIUJI7v3aAGQiP,Al Mas Allá,Los Daniels,1
+comic metal,35xmSciP2D7fkPVQVjYdKe,Norwegian Reggaeton,NanowaR of Steel,2
+ska espanol,4qn2ZtHRDmcfgVPnl38N8p,El asesino del tiempo,Dinamo,2
+latin viral rap,3y7rAWPbsbUpjbqGFxIAww,Adán vs Zeus Rap,MegaR,1
+latin alternative,57kYeaTLlVpVQMdflUoxYw,Rómpase el Vidrio en Caso de Emergencia,Allison,1
+spanish rock,5WFMNTNftON3cLPLVa7kwi,Mundial 2006- Canal 4,Señor Trepador,2
+indie rock italiano,63WuQOXohQIxOxIFA2K7bR,SUPERMODEL,Måneskin,2
+pop argentino,3wmy2N3KGBM9qKRRb2bNLr,Una Noche Más,Robleis,2
+dance pop,0vbtURX4qv1l7besfwmnD8,I Took A Pill In Ibiza - Seeb Remix,Mike Posner,2
+rock uruguayo,5PeuB1pbYu2YiqJyTcgR1T,They're Not Happy About Me,Gabriel Templar,2
+argentine hip hop,5Us3svqTvNAdnQfEYfoL5g,La Trampa es Ley,LIT killah,4
+hopebeat,1TsrGEUQWMA7t542V7ppuP,Lent,Autoheart,2
+punk urbano,5nFQqOyGBIC4jhddXgYNxW,Sácame de aquí,Gritando en Silencio,6
+rock uruguayo,5Ujrafg3IAx5DjjBUkndSz,Rodeada de idiotas,Cobardes,2
+indie valenciana,2GZKHCkIh25MTJHAFT7YoQ,Naixen Primaveres,Aspencat,2
+argentine telepop,6xiXTpLR2J7epOmttWW984,Mecha,Chano,2
+rock uruguayo,1Fw3koFuC2VWhPneAX2Gz4,Bedroom Rockstar,Blame Blop,2
+punk euskera,7fVAyNC0cFsCNiGxCgSbwV,Aquellos Años,The Bobby's,6
+ska catala,6IMZPYjW7FKdpMJcybAQMW,Volar,Agua Bendita,5
+metropopolis,4umN41ggyywUcvMbZxhcHR,Oh No!,MARINA,2
+indie extremena,2bFi0AdS4Ylh0BeJar5yw1,En Tarros de Miel,Sinkope,7
+musica valenciana,7tiu52iT5YeFY7QhOCpmOs,Esbarzers,La Gossa Sorda,2
+punk urbano,6Ur2sj2Q8E2Dp4x3erQWN4,Trasegando,Marea,6
+indie valenciana,0uRC1one5JBBT6MyxNRcjy,Corazones Ambulantes,Valira,2
+latin alternative,0tKdc5LRn5omaRRJJQ5wlh,Muchachos Esta Noche Me Emborracho,La Mosca Tse-Tse,1
+rap politico,2NdH1GtFbmcoUQBkvX0zUL,Español,Ciniko el Octavo Arte,2
+rap politico,45PIqvbAcMWK8DC3QkQu5p,Esclavos,Mala Praxis,2
+rap galego,4cX2HECxTnhFTGHJ72RYt1,Purificación,Día Sexto,2
+rap metal espanol,1Bddl2xpVtMPwn78K8dHu3,La Cigarra y la Hormiga,Sons of Aguirre,2
+punk urbano,2Kbr1l42WvrWR0O9BaOIGe,El Pais de Alicia,Envidia Kotxina,6
+rap politico,6nSmBTQCy2yZLj8NjNnqcL,Comancheria,Los Chikos del Maiz,2
+pop venezolano,7gwT3HGL84vF7bgtwL1N88,Ojos Marrones,Lasso,2
+pop,5rLi8B8qgk6qThwRnKHW2P,The Ballad of Mona Lisa,Panic! At The Disco,2
+italian hip hop,38SWtyvUlLY7JRztpPB7N0,L'acqua der tevere,Rancore,4
+rock uruguayo,13yE6UlhBfDgGZ56xUCnXu,Razones,El Cuarteto De Nos,2
+chilean indie,6rj4baRaVhzNcXk3bu4afW,La mejicana,Tata Barahona,7
+rap politico,31Fhs0pNaSsxYEavOPPN88,Puta Locura,Blake,2
+rap underground espanol,2hS7Bn1HsYlBw4xQ6drw1u,Get High,Elane,2
+spanish folk metal,3BVdbbFSuhVBHsvCgqCSTx,Seguimos en Pie,Lepoka,2
+rap politico,2lXPDGSJBfF3tvelCmPfUN,Cara B,SFDK,2
+rock uruguayo,1IV1pNKKPtSeJEA5BPTu1e,Leave It All To Me (iCarly chill),Torpe,2
+punk urbano,6Zq5MmCCWhZMdcsZVbCsbg,A Puñetazos Con los Abrazos,Silencio Absoluto,6
+punk urbano,3Nz3EIAo136Ki1fh7hXcfc,Octubres Rotos,Desakato,6
+modern rock,0HqZX76SFLDz2aW8aiqi7G,Bones,Imagine Dragons,2
+classic swedish pop,17pOLaBouf2EleJjsHfJSg,Hooked On A Feeling,Blue Swede,2
+rock uruguayo,06qEGQMavekDfu9fVsFAMz,I Love Rock 'n' Roll,The Black Jets,2
+lgbtq+ hip hop,27NovPIUIRrOZoCHxABJwK,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,4
+dance pop,6YUTL4dYpB9xZO5qExPf05,Summer,Calvin Harris,2
+pov: indie,68EkhVWIeULhHxcbi1QhzK,World's Smallest Violin,AJR,7
+alternative rock,3ZOEytgrvLwQaqXreDs2Jx,Can't Stop,Red Hot Chili Peppers,2
+rock uruguayo,3bidbhpOYeV4knp8AIu8Xn,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,2
+album rock,7e89621JPkKaeDSTQ3avtg,Sweet Home Alabama,Lynyrd Skynyrd,2
+argentine hip hop,3E4ZzO4ySupnYypDPXcc3D,Rockstar,Duki,4
+g funk,3FNy4yzOhHhFBeA5p4ofoq,"Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,2
+rap politico,7sLAaxuPpzSBZHJeDdhz2U,Bang Bang,Blake,2
+urbano espanol,39dJktBetsIgMLjFifrm6p,Ansiedad 3,Liz Forte,6
+weirdcore,2LKOHdMsL0K9KwcPRlJK2v,After Dark,Mr.Kitty,6
+country,6lyKOW0FNW6aAZdKVgoM8m,Good Time,Alan Jackson,2
+australian pop,2XU0oxnq2qxCpomAAuJY8K,Dance Monkey,Tones And I,2
+video game music,3DCSgpzzdFwH4fwMcGi7Pr,Incantation,Russell Brower,7
+rock uruguayo,1KzO88hc8I7InCz4IM0u3J,Me da igual,Charlie USG,2
+reggae peruano,5LgEnbi7P6taZ8UKtHeygA,Llaman a la Puerta,Pochi Marambio y Tierra Sur,5
+spanish punk,5y8xgNEwQx8sQfHSuw15Qf,Lobos,Kamikazes,6
+rock uruguayo,0RyfX2mvCmwKBEWXD434tq,Frankenstein Posmo,El Cuarteto De Nos,2
+punk catala,4mkrVjzTjKy1qttNNipfsL,Nuberu,mafalda,5
+melodic groove metal,1sIq6r8UYBG03bBcg9qVfc,Valley of the Fallen,Scila,2
+salsa,3scW7pt0vlhkCCgCNv5YR9,La Noche Mas Linda,Adalberto Santiago,2
+indie triste,75UMtPC77vqKRwfSuYuNPO,San Lucas,Kevin Kaarl,7
+argentine hip hop,2tTmW7RDtMQtBk7m2rYeSw,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,4
+baroque,0ROMalDdNg3L2HoZP4qFyJ,"The Four Seasons: Concerto No. 4 in F Minor, RV 297 ""L'inverno"" (winter): I. Allegro non molto",Antonio Vivaldi,2
+rock uruguayo,45Cll8v6YLVa10EvCrP11j,Ragtime,Vince De Vera & Jason Garner,2
+argentine hip hop,4hceSKjrkDTO0nMKFcb3sj,"Villano Antillano: Bzrp Music Sessions, Vol. 51",Bizarrap,4
+indie veneto,3qQsdqO1T3IrsaB87i6PAD,Danza dell'autumno rosa,Talco,2
+punk urbano,0dSyp0Ll2nLUqUh1uvxb5i,A la Soledad,Desakato,6
+modern alternative rock,5Q6fh8OEhBYepJaORz9lxe,Daddy Issues (Remix) feat. Syd,The Neighbourhood,2
+gauze pop,37adYGaYaAWTGhBaOzX4Fh,Take A Slice,Glass Animals,2
+gauze pop,1K2RnVhm3eauKnA8PAcPu1,Heat Waves - Slowed,Glass Animals,2
+argentine hip hop,7kDD0sZCzLWalmbxLX4xMa,Si Te Lastimé - acústico,Seven Kayne,4
+ska espanol,1VrwBgWyGqro52jYSWS5YY,Llueve en Semana Santa,La Raíz,2
+punk urbano,3tk0F3IofksZWFhRxSOZjI,Malabares,Los De Marras,6
+punk urbano,5WUSFdBFiSipPACl0nbDEd,Entre tus piernas,Gritando en Silencio,6
+ska espanol,174LzUiYeKlC5rySXPtRg1,Nuestra Nación,La Raíz,2
+punk urbano,2Xnwl1eRKRJoLDZ6cRxkE3,La Tormenta,Desakato,6
+hardcore punk espanol,4ysVkD5SJnidvdeyKk97Lp,Korsakov,Boikot,6
+spanish punk,5k0btdDbZjHtHanzky847r,De Festi? Vale,Trashtucada,6
+hardcore punk espanol,4FjNOWxwlUgf30G9fMggpN,Hablarán las Calles,Boikot,6
+hardcore punk espanol,496O2EfJmGm6LQpWjt9bGj,Salgo a la Calle (Bonus Track),Boikot,6
+alternative metal,7piw04hPQZ1OHZ9Fq9JOXR,Time of Dying,Three Days Grace,2
+alternative metal,5PZ2cqh9Yem2g6cTSOLllz,Pain,Three Days Grace,2
+rock uruguayo,3ECQXmZjCKCHZgsVa0DBzS,Rorschach,El Cuarteto De Nos,2
+rock uruguayo,2DuXBSTv5pkG9dc5TWDomK,Maldito Show,El Cuarteto De Nos,2
+musica popular uruguaya,39K7E651wrt8PorEspTWb5,Mi Revolucion,Cuatro Pesos de Propina,2
+cumbia pop,2iOuy9LsnYTQCpaUTGApBe,Donde tan los pibes,Mc Caco,2
+cumbia pop,7xonDv1Le9tMf7F4ZXTzTT,La cajita feliz,Mc Caco,2
+rock uruguayo,0ZIxMgutG4aP7jfPcmRnYu,La Ciudad Sin Alma,El Cuarteto De Nos,2
+flamenco fusion,6BbHSY7jAjT3hDVmjnRUIe,Humo,Rupatrupa,2
+indie extremena,5HSpMRUC4m3L3q48to2Kmu,So payaso,Extremoduro,7
+rap metal espanol,0Yjb59fAq6ShYYouwweNfB,Paté de Tofu,Sons of Aguirre,2
+ska,0sNwv0cBkQCtvAfjzJZbQ8,Consumo Gusto,Ska-P,2
+euskal rock,4ElzHGmien7nf70YqQMO2h,Rico Deprimido,Kaotiko,2
+hardcore punk espanol,7rJ26a6Z13AUOjCXSe10UZ,Lloraré,Boikot,6
+ska espanol,4eoMumgTE1bYZxiRqTN4df,Radio Clandestina,La Raíz,2
+ska,4zym5kQyHls6e5JZxm6UtO,Ni Fu Ni Fa,Ska-P,2
+rap metal espanol,14rb1k1597yHftzHw46Abe,Velociraptor Vegano,Sons of Aguirre,2
+ska espanol,1UHdRkhzIpUDZJJMPDTo3f,A la Sombra de la Sierra,La Raíz,2
+euskal rock,2JXn1MQeFqowxtRxgmefuk,Otra Noche,Kaotiko,2
+ska,5lEWyaVTW8ynLaKo0Xc5sK,Jaque al Rey,Ska-P,2
+indie extremena,4Qn4NJZZhMQVxVROSb0Je1,Jesucristo García - Versión 2004,Extremoduro,7
+rock uruguayo,4am7X8WNcYhqnToqnFH625,La Bestia,El Cuarteto De Nos,2
+rap politico,2l2v3pRAsCs6V86PXDHVMe,La Estanquera de Saigón,Los Chikos del Maiz,2
+rap politico,5VzfDf3J3AGem9WIX02Kcz,Mi Novia Es de Derechas,Los Chikos del Maiz,2
+punk urbano,5Fronw7eoL0huzCEYSZe80,A la luz de una sonrisa,Gritando en Silencio,6
+celtic metal,2xhkAlJjsSo3AqnwgnFBcx,Cadaveria,Mägo de Oz,2
+folk-pop,7yq4Qj7cqayVTp3FF9CWbm,Riptide,Vance Joy,2
+punk urbano,2JJuPgsSJJTfVZJkVO5CVp,Rutina en las venas - feat. Albertucho,Gritando en Silencio,6
+argentine heavy metal,23wbyzX57usJHzKosmFM5g,Talismán,Rata Blanca,2
+k-pop,3vPHCKu5UhbGLe9rs8dBGr,Scream,Dreamcatcher,2
+trap triste,3GwzOCZQzmuZzOq0Rp6jxN,martes 13,killdevil,2
+reggae catala,1nO2vGrP18kP5ok92k3MOH,Temerario,Itaca Band,5
+latin rock,6YBBChCWBs546BtgxTtKqA,Medalla de cartón,Fito y Fitipaldis,1
+punk urbano,2Gt5oL4aEufZvJy9KjEkxi,Cigarrito,Platero Y Tu,6
+hardcore punk espanol,749QVthAEMdMPQdZBLQ98S,Jarama,Boikot,6
+metropopolis,6lKRMylSZMtA7EqPl0pcdI,Are You Satisfied?,MARINA,2
+lgbtq+ hip hop,2YpeDb67231RjR0MgVLzsG,Old Town Road - Remix,Lil Nas X,4
+gauze pop,02MWAaffLxlfxAUY7c5dvx,Heat Waves,Glass Animals,2
+rap politico,4QXiKcZwVr6MmgBXjsdGdU,Agua Pasá,SFDK,2
+boom bap espanol,7zUhVz7yMmO1mmbfFI8R5i,Pura Droga Sin Cortar,Violadores Del Verso,0
+compositional ambient,3lSOZb5rruEnFbe9xWELF6,Rue des trois frères,Fabrizio Paterlini,6
+classical,61YM5SkqqeUjIBL7It56cs,Nocturne Op. 9 No. 2,Frédéric Chopin,6
+hyperpop en espanol,4bW8Scxf4AMpjhdFbNw3dF,espiritu,Orslok,3
+dark r&b,2bFGGsScXp2Tu10jKMCKO6,Figure You Out,VOILÀ,2
+deep euro house,5tf1VVWniHgryyumXyJM7w,Sugar (feat. Francesco Yates),Robin Schulz,2
+spanish hip hop,6XGDnUY1YOtIRegDVwKugM,Seguiré al Sol,Fyahbwoy,4
+hyperpop en espanol,4uSlIN62vRGSsi8RmWp976,Domingo,El Virtual,3
+metal galego,2dsRqyrSxZb86jSo57cRUz,Madre Anoche En Las Trincheras,Archivo Adxunto,2
+drill espanol,3dyQfqPEASyhbdCnIteJQY,Nos Da Igual,KG970,2
+drill espanol,1ihuKaXmGw57QvDYSVyDCW,Back 2 Back x B10,KG970,2
+urbano mexicano,4hAYQuavbB0FYhyxBTbVal,Te Marqué Pedo,Alex Luna,6
+rap conciencia,0wZMiRXKitvHFhcSqZriAe,Soy y No Soy,El Chojin,2
+reggaeton,2rDZhKnPaPG054ExZ6nXUS,Jordan,Ryan Castro,2
+rap conciencia,22WO8XRRCDhoCUtcLQtl9C,Qué bien te quedaba,Walls,2
+trap argentino,2Z4FBa6hAEh7VTHYCqXy7P,OPA,Dillom,2
+rap politico,6fKCqK8OB2MVnYCHD9moHj,Tiranosaurius Rex,Kase.O,2
+argentine hip hop,1kjs5eR4DMzyB0gm1Z8waV,DANCE CRIP,Trueno,4
+mexican hip hop,6lQ7ubRjFRpxkRtlFnMJRl,Arre,Simpson Ahuevo,4
+alternative metal,0EYOdF5FCkgOJJla8DI2Md,B.Y.O.B.,System Of A Down,2
+alternative metal,2DlHlPMa4M17kufBvI2lEN,Chop Suey!,System Of A Down,2
+alternative metal,0snQkGI5qnAmohLE7jTsTn,Toxicity,System Of A Down,2
+ska espanol,3hJxG3eSoXeI2XbQ9nBeK2,Obediencia Ciega,La Raíz,2
+dance pop,3yUcJwYu7fXAfqMj9krY6l,Thank You,Dido,2
+indie poptimism,6LtHYDgYHRCHoKK3snfr2w,I’m Tired (with Zendaya) - Bonus Track,Labrinth,7
+cali rap,6FuGJB290AQMAHTfjOYVaK,"Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",24kGoldn,2
+peruvian hip hop,2lAal4IOk6IQFfRkGaLDA6,Dragon Ball Super Broly Rap,Porta,4
+rap politico,1xtGtCsjab1g10nm6joLdZ,Dispárame,Calero LDN,2
+spanish hip hop,5JKDc7HClAX7gTibgUjuwu,Lumbre,Sharif,4
+spanish hip hop,5kt0OltAfepJ7QHSOch45K,Si Tú Supieras,Little Pepe,4
+boom bap espanol,6iVVHY41LSbfjeCIcki5LJ,Dando y Perdiendo (Remix),Rapsusklei,0
+alternative hip hop,13plTOJUDmgBrTEd7yzTgq,Cowboys Don’t Cry,Oliver Tree,4
+alternative hip hop,16PGd9HZZ4TSiQxtZYLSd9,The Internet,Oliver Tree,4
+melodic rap,3iH29NcCxYgI5shlkZrUoB,gone girl,iann dior,2
+melodic rap,5ls62WNKHUUrdF3r1cv83T,emotions,iann dior,2
+alternative hip hop,0jk6J6B9ivegJc7dTg10Mp,Let Me Down,Oliver Tree,4
+spanish folk metal,2yDkReUeTjk9AT6oPWV55Q,Contra Viento y Marea,Lepoka,2
+melodic rap,36uNbyvWCUwSk3AnpQmu2I,thought it was (feat. Machine Gun Kelly & Travis Barker),iann dior,2
+pop argentino,54RpEEWkM8J06EWS7MmtED,MALA,Robleis,2
+bedroom pop,7qBT9qcbtkLqrfm9LiTNB4,Piel Canela,Cuco,2
+rock uruguayo,4pK99WOgqZRQbeiac4Wjyi,Do I Make You Nervous?,Zepet,2
+sad lo-fi,39LJCSHy7nB1akjmhMQ7Y7,Pain,Josh A,9
+reggaeton,2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,2
+alternative hip hop,6Ph8QwsRfZunN5e1GGBIqa,Hurt,Oliver Tree,4
+art pop,3LGsgpx4TfxhXbr07OFKqs,Oblivion,Grimes,2
+cantautor,3YVIXYX8FVRYiQfcc47gyb,Sólo los Locos Viven la Libertad,Pedro Pastor,2
+latin alternative,4skuEIloXWuxxgekKupkEH,Tu Falta De Querer,Mon Laferte,1
+cantautora mexicana,0zTSmiDzVkIPUPjsHcUWpe,Disfruto,Carla Morrison,8
+g funk,1DIXPcTDzTj8ZMHt3PDt8p,Gangsta's Paradise,Coolio,2
+spanish hip hop,3gUE9hxZtrrNytY4YHaQG1,Déjate de cuentos,Brock Ansiolitiko,4
+downtempo,1hEh8Hc9lBAFWUghHBsCel,Porcelain,Moby,2
+indie game soundtrack,1J03Vp93ybKIxfzYI4YJtL,MEGALOVANIA,Toby Fox,2
+rock uruguayo,25GrBh4vRCJpb142tggh2E,The Bonfire Behind The Slaughter,Oli Is MLG,2
+rock uruguayo,2Oql5y6yNB0XUb8OWbi7pq,Flyday Chinatown,EVADE FROM 宇宙,2
+rock uruguayo,0kqWb82ACdjcObDqDqD0zg,"No Tengo Hambre, Tengo Ansiedad",Alan Sutton y las criaturitas de la ansiedad,2
+bedroom pop,2vOZZ5frOUXGdlyIqIGnUj,All My Friends Have Dogs,broox,2
+electro,2cGxRwrMyEAp8dEbuZaVv6,Instant Crush (feat. Julian Casablancas),Daft Punk,2
+folklore uruguayo,2ZSh2anXpuTLC6utOkavyb,La Violencia,Agarrate Catalina,2
+punk urbano,59TvbAzNoYyOGF6WntnZge,A Tu Vera,Los De Marras,6
+indie extremena,4z2EeFUp5Lhai9qhHtA6IF,Salir,Extremoduro,7
+latin viral pop,1ey2nYPIpS7qGeZE649t8o,Aqui estoy clean,Missa Sinfonia,1
+rap anime,40Tn8Uhu2GHHI64Tw8I7Jt,"El Corrido del ""ABDUZCAN""",Lalothing,2
+canto popular uruguayo,0xoao6vtEvZxZ7VCv1qji1,Zanguango,Leo Maslíah,2
+rock uruguayo,3PuB6UwBXxbyu4y1AbJIwv,Un Ratito,Alex Soto,2
+argentine reggae,0ZLakHzHWqUIlkeDa4i8aC,Runaway,Los Pericos,5
+british soul,3FAclTFfvUuQYnEsptbK8w,Back To Black,Amy Winehouse,2
+peruvian rock,2wZOlqZsq00tdAlsmyh4YK,Gigantes de Arena,La Mente,2
+rock uruguayo,3ECkz4odYU5HCv36zPYRwQ,Go Go Go Go! - Nightcore Version,Felsenstein,2
+ska espanol,3d0SOLPqIBXkPZYl0CwhD7,Noches en Babylon,La Raíz,2
+australian hip hop,0BGwAKW4u8kWOhWFflZxfl,Astronaut In The Ocean,Masked Wolf,4
+spanish indie pop,2uhTEPAQvGHa69xwEEFEpE,Una Canción para No Decir Te Quiero,La Maravillosa Orquesta del Alcohol,7
+hardcore punk espanol,1XbkYc0szlepSM3Na5EcG5,Kualqiier Dia,Boikot,6
+rock uruguayo,3IfUwAUPyHvq5vfRMXK1WO,My head is spinning like a screw (Моя голова винтом),kostromin,2
+otacore,6xqJ0XqDM9dVEW1jbm78wB,Discord,The Living Tombstone,2
+oulu metal,1ovFnZv6mUe0LzAbfVqOmh,Dark Side,Blind Channel,2
+viral rap,47enw9R1hdkfuxeSjoDQ0N,Paparazzi,Kim Dracula,1
+lgbtq+ hip hop,67BtfxlNbhBmCDR2L2l8qd,MONTERO (Call Me By Your Name),Lil Nas X,4
+andean flute,5PXOPTdFcIJIumTvhDVpid,Kuntur,Lucho Quequezana,2
+peruvian indie,1Ahb1lGCvsRSlmThubFzsy,Triciclo Perú,Los Mojarras,2
+latin pop,5iwz1NiezX7WWjnCgY5TH4,Calma - Remix,Pedro Capó,1
+turkish deep house,4OgwXdylh75fHfwUzJTUqg,Rockstar,Ilkay Sencan,2
+turkish edm,5QVX2tGOF4w19BHtWPNpFu,Astronaut In The Ocean,Arem Ozguc,2
+punk urbano,6ScI1xf3RszISXvLGmitY3,Corazon de mimbre,Marea,6
+deep pop edm,3FS2e59gXFXrcg7sN2mL5z,Shots & Squats,Vigiland,2
+latin alternative,0cOXDRG1giESc1QVrHpbGE,Amateur (Rock Me Amadeus),Molotov,1
+rock uruguayo,3qvoWt50uOnKulCDVNkrWT,Hit The Deep End,Jordan Phoenix,2
+indie rock italiano,3Wrjm47oTz2sjIgck11l5e,Beggin',Måneskin,2
+punk urbano,7GV2Vhko6RZloD7DmGUUFJ,La Gravedad de la Teoría,Albertucho,6
+punk urbano,5f8T1Lbd35nauMBA3JfpJj,Descuida,Albertucho,6
+punk urbano,4bO6qABw4zTcA9mp37Q5uI,Capitán Cobarde,Albertucho,6

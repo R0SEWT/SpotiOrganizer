@@ -1,0 +1,105 @@
+{% extends "base.html" %}
+
+{% block body %}
+<div class="flex flex-col min-h-[100dvh]">
+  <div class="grid items-center min-h-[400px] gap-4 px-4 text-center md:gap-10 md:px-6">
+    <div class="space-y-2">
+      <h1 class="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl text-white">
+        Discover the Sound of Music
+      </h1>
+      <p
+        class="mx-auto max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
+        Let your ears guide you through a world of rhythm and melody.
+      </p>
+    </div><a
+      class="inline-flex h-10 items-center justify-center rounded-md bg-gray-900 px-8 text-sm font-medium text-gray-50 shadow transition-colors hover:bg-gray-900/90 dark:bg-gray-50 dark:text-gray-900 dark:hover:bg-gray-50/90 dark:focus-visible:ring-gray-300"
+      href="#">
+      Explore Now
+    </a>
+  </div>
+  <section class="w-full py-10 md:py-20 lg:py-28 border-t flex justify-center items-center">
+    <div class="container space-y-12 px-4 md:px-6">
+      <div class="grid max-w-5xl mx-auto items-start gap-4 lg:grid-cols-2 lg:gap-8">
+        <div class="flex flex-col items-start space-y-2">
+          <h2 class="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-white">Algunas Canciones</h2>
+          <p class="text-gray-400">
+            Una pequeña muestra de las canciones
+          </p>
+        </div>
+      </div>
+      <div id="canciones" class="grid max-w-sm gap-4 sm:max-w-4xl sm:grid-cols-2 lg:max-w-none lg:grid-cols-4 lg:gap-8">
+        {% for cancion in tracks %}
+        <div class="flex flex-col gap-2 m-auto" id="{{cancion['id']}}" uri="{{cancion['uri']}}">
+          <img src="{{cancion['img']}}" width="300" height="300" alt="{{cancion['title']}} - {{cancion['artist_name']}}"
+            class="aspect-square object-cover rounded-lg cursor-pointer hover:scale-105 hover:rotate-6 transition-all duration-300" />
+          <div class="flex flex-col gap-1.5">
+            <h3 class="font-semibold text-white">{{cancion["title"]}}</h3>
+            <p class="text-sm text-gray-500 dark:text-gray-400">
+              {{cancion["artist_name"]}}
+            </p>
+          </div>
+        </div>
+        {%endfor%}
+      </div>
+    </div>
+  </section>
+  <section class="w-full py-12 md:py-24 lg:py-32 border-t flex justify-center items-center">
+    <div class="container space-y-12 px-4 md:px-6">
+      <div class="grid max-w-5xl mx-auto items-start gap-4 lg:grid-cols-2 lg:gap-8">
+        <div class="flex flex-col items-start space-y-2">
+          <h2 class="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl dark:text-white">Algunos Artistas</h2>
+          <p class="text-gray-500 dark:text-gray-400">
+            The artists you need to know. Carefully curated by our experts.
+          </p>
+        </div>
+        <div class="flex justify-end items-start">
+          <a class="inline-flex h-9 items-center justify-center rounded-md border border-gray-200 bg-white px-4 text-sm font-medium shadow-sm hover:bg-gray-100 hover:text-gray-900 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-950 disabled:pointer-events-none disabled:opacity-50 dark:text-white dark:border-gray-800 dark:bg-gray-950 dark:hover:bg-gray-800 dark:hover:text-gray-50 dark:focus-visible:ring-gray-300"
+            href="#" rel="ugc">
+            View All
+          </a>
+        </div>
+      </div>
+      <div class="grid max-w-sm gap-4 sm:max-w-4xl sm:grid-cols-2 lg:max-w-none lg:grid-cols-4 lg:gap-8">
+        {% for artista in artistas %}
+        <div class="flex flex-col gap-2 m-auto">
+          <img src="{{artista['img']}}" width="300" height="300" alt="Album"
+            class="aspect-square object-cover rounded-lg" />
+          <div class="flex flex-col gap-1.5">
+            <h3 class="font-semibold text-white">{{artista["name"]}}</h3>
+            <p class="text-sm text-gray-500 dark:text-gray-400">
+              Smooth sounds and cool vibes. Let the music take you away.
+            </p>
+          </div>
+        </div>
+        {%endfor%}
+      </div>
+    </div>
+  </section>
+  <footer class="flex items-center justify-center gap-2 h-14 px-4 md:px-6 border-t text-sm">
+    <p class="text-gray-500 dark:text-gray-400">© 2024 Acme Inc. All rights reserved.</p>
+    <div class="flex gap-2">
+      <a class="text-gray-600 hover:underline underline-offset-4 dark:text-gray-400" href="#">
+        Terms
+      </a>
+      <a class="text-gray-600 hover:underline underline-offset-4 dark:text-gray-400" href="#">
+        Privacy
+      </a>
+    </div>
+  </footer>
+</div>
+{% endblock%}
+{% block script %}
+<script>
+  document.addEventListener('DOMContentLoaded', ()=>{
+    const div_canciones = document.getElementById("canciones")
+    const imgs = div_canciones.querySelectorAll("img")
+    imgs.forEach((cancion)=>{
+      const cancion_id = cancion.parentElement.id
+      const uri = cancion.parentElement.getAttribute("uri")
+      const [title, artist] = cancion.alt.split(" - ")
+
+      cancion.addEventListener("click", ()=> location.href = `./escuchar/${cancion_id}`)
+    })
+  })
+</script>
+{% endblock%}
