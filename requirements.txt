@@ -26,7 +26,7 @@ scikit-learn==1.4.0
 seaborn
 scipy==1.12.0
 six==1.16.0
-spotipy==2.23.0
+spotipy==2.25.1
 threadpoolctl==3.3.0
 tqdm
 tzdata==2024.1
